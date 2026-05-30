@@ -1,0 +1,1022 @@
+******************************************************************
+              REPORTE COMPLETO DE CITAS MEDICAS
+*******************************************************************
+
+Generado: 29-5-2026 8:48:44
+
+ESTADISTICAS GENERALES:
+****************************************************************************
+Total de citas:      1000
+Citas activas:       847 (84,7%)
+Citas canceladas:    69 (6,9%)
+Inasistencias:       84 (8,4%)
+----------------------------------------------------------------------------
+RECAUDACION TOTAL POR INASISTENCIAS: $2100,00
+
+DETALLE DE CITAS:
+*******************************************************************************************
+ID   | FECHA        | HORA     | PACIENTE   | MEDICO       | MOTIVO                    | ESTADO     | MULTA   
+---------------------------------------------------------------------------------------------
+1    | 10-09-2026   | 08:00    | 0506607571 | MED-181      | Control de diabetes       | CANCELADA  | $0,00   
+2    | 19-12-2026   | 08:00    | 0134974229 | MED-152      | Migrana cronica           | ATENDIDA   | $0,00   
+3    | 15-01-2026   | 16:00    | 0612487371 | MED-178      | Mareos y vertigo          | ACTIVA     | $0,00   
+4    | 28-09-2026   | 18:00    | 0827211962 | MED-178      | Migrana cronica           | ATENDIDA   | $0,00   
+5    | 27-05-2026   | 10:00    | 2048412213 | MED-144      | Alergia en piel           | ACTIVA     | $0,00   
+6    | 18-11-2026   | 08:00    | 2249686524 | MED-072      | Calculos renales          | NO ASISTIO | $25,00  
+7    | 03-04-2026   | 16:00    | 0252108857 | MED-115      | Dolor de espalda          | ATENDIDA   | $0,00   
+8    | 22-05-2026   | 14:00    | 1833553744 | MED-179      | Dolor de oido             | ATENDIDA   | $0,00   
+9    | 23-01-2026   | 18:00    | 0441276128 | MED-168      | Control de diabetes       | ATENDIDA   | $0,00   
+10   | 02-12-2026   | 14:00    | 0711196204 | MED-094      | Crisis de Asma            | ACTIVA     | $0,00   
+11   | 13-08-2026   | 08:00    | 1509015655 | MED-063      | Infeccion urinaria        | ATENDIDA   | $0,00   
+12   | 13-02-2026   | 08:00    | 1438357715 | MED-077      | Dolor de oido             | ATENDIDA   | $0,00   
+13   | 26-01-2026   | 16:00    | 2008385680 | MED-022      | Crisis de Asma            | ATENDIDA   | $0,00   
+14   | 23-08-2026   | 08:00    | 0740001581 | MED-048      | Calculos renales          | ACTIVA     | $0,00   
+15   | 15-11-2026   | 14:00    | 2416303663 | MED-071      | Control de presion        | ACTIVA     | $0,00   
+16   | 26-06-2026   | 18:00    | 1747113114 | MED-064      | Vacunacion                | ACTIVA     | $0,00   
+17   | 08-10-2026   | 10:00    | 2331052395 | MED-229      | Chequeo de rutina         | ACTIVA     | $0,00   
+18   | 17-06-2026   | 10:00    | 1129896906 | MED-019      | Dolor general             | ATENDIDA   | $0,00   
+19   | 19-11-2026   | 12:00    | 1140653914 | MED-192      | Dolor abdominal           | NO ASISTIO | $25,00  
+20   | 23-05-2026   | 18:00    | 0857568224 | MED-119      | Dificultad al respirar    | ATENDIDA   | $0,00   
+21   | 05-07-2026   | 16:00    | 0341904233 | MED-124      | Dolor general             | ATENDIDA   | $0,00   
+22   | 08-03-2026   | 12:00    | 2304043116 | MED-099      | Crisis de Asma            | ACTIVA     | $0,00   
+23   | 03-03-2026   | 18:00    | 0230531899 | MED-022      | Dificultad al respirar    | ATENDIDA   | $0,00   
+24   | 10-09-2026   | 10:00    | 1747113114 | MED-197      | Chequeo de rutina         | NO ASISTIO | $25,00  
+25   | 25-01-2026   | 12:00    | 0310335971 | MED-029      | Fiebre y tos              | NO ASISTIO | $25,00  
+26   | 12-10-2026   | 16:00    | 2331052395 | MED-155      | Dificultad al respirar    | NO ASISTIO | $25,00  
+27   | 17-08-2026   | 18:00    | 2418236572 | MED-147      | Convulsiones              | ACTIVA     | $0,00   
+28   | 14-12-2026   | 10:00    | 0526232632 | MED-112      | Control de gastritis      | ACTIVA     | $0,00   
+29   | 20-03-2026   | 16:00    | 1833518580 | MED-093      | Fiebre y malestar         | ACTIVA     | $0,00   
+30   | 09-11-2026   | 10:00    | 1342408406 | MED-113      | Dolor articular           | ACTIVA     | $0,00   
+31   | 27-05-2026   | 18:00    | 2356019279 | MED-191      | Problemas de tiroides     | CANCELADA  | $0,00   
+32   | 02-10-2026   | 10:00    | 2304043116 | MED-114      | Problemas de garganta     | ATENDIDA   | $0,00   
+33   | 27-05-2026   | 18:00    | 2247947183 | MED-187      | Revision de lunares       | ACTIVA     | $0,00   
+34   | 15-06-2026   | 12:00    | 2416303663 | MED-136      | Infeccion urinaria        | ATENDIDA   | $0,00   
+35   | 16-02-2026   | 12:00    | 1308240728 | MED-072      | Infeccion urinaria        | ACTIVA     | $0,00   
+36   | 20-01-2026   | 10:00    | 1709614414 | MED-032      | Fiebre y tos              | ATENDIDA   | $0,00   
+37   | 04-07-2026   | 18:00    | 0211675491 | MED-222      | Chequeo de rutina         | ATENDIDA   | $0,00   
+38   | 27-12-2026   | 10:00    | 0651373151 | MED-181      | Desorden hormonal         | ATENDIDA   | $0,00   
+39   | 24-12-2026   | 14:00    | 1815814031 | MED-179      | Sinusitis severa          | ACTIVA     | $0,00   
+40   | 27-11-2026   | 18:00    | 1146382567 | MED-200      | Perdida de vision         | ACTIVA     | $0,00   
+41   | 16-02-2026   | 12:00    | 0827211962 | MED-117      | Crisis de Asma            | ATENDIDA   | $0,00   
+42   | 11-12-2026   | 10:00    | 1012395610 | MED-209      | Desorden hormonal         | ACTIVA     | $0,00   
+43   | 27-10-2026   | 08:00    | 2154169839 | MED-013      | Vacunacion                | ATENDIDA   | $0,00   
+44   | 27-03-2026   | 16:00    | 0424333052 | MED-225      | Convulsiones              | ATENDIDA   | $0,00   
+45   | 24-05-2026   | 12:00    | 0245633722 | MED-117      | Crisis de Asma            | ACTIVA     | $0,00   
+46   | 12-10-2026   | 18:00    | 2307956850 | MED-225      | Convulsiones              | ACTIVA     | $0,00   
+47   | 25-08-2026   | 16:00    | 0502987340 | MED-244      | Chequeo de rutina         | ATENDIDA   | $0,00   
+48   | 28-02-2026   | 10:00    | 2201987498 | MED-008      | Alergia en piel           | ACTIVA     | $0,00   
+49   | 14-04-2026   | 14:00    | 1541408181 | MED-189      | Fiebre y malestar         | ATENDIDA   | $0,00   
+50   | 27-03-2026   | 18:00    | 1129693683 | MED-239      | Control de gastritis      | ATENDIDA   | $0,00   
+51   | 02-02-2026   | 14:00    | 1921152607 | MED-151      | Sinusitis severa          | ACTIVA     | $0,00   
+52   | 22-03-2026   | 18:00    | 1606266979 | MED-168      | Problemas de tiroides     | ATENDIDA   | $0,00   
+53   | 12-08-2026   | 08:00    | 0723003240 | MED-072      | Control renal             | ACTIVA     | $0,00   
+54   | 03-06-2026   | 12:00    | 0453691362 | MED-070      | Migrana cronica           | ACTIVA     | $0,00   
+55   | 26-01-2026   | 12:00    | 1050145307 | MED-238      | Convulsiones              | ATENDIDA   | $0,00   
+56   | 09-02-2026   | 18:00    | 2342810575 | MED-172      | Dolor articular           | ACTIVA     | $0,00   
+57   | 04-04-2026   | 08:00    | 0221845415 | MED-049      | Chequeo de rutina         | ACTIVA     | $0,00   
+58   | 19-07-2026   | 14:00    | 0246826267 | MED-241      | Calculos renales          | ATENDIDA   | $0,00   
+59   | 01-08-2026   | 08:00    | 1104381742 | MED-031      | Vacunacion                | ACTIVA     | $0,00   
+60   | 09-11-2026   | 14:00    | 2000022844 | MED-205      | Infeccion urinaria        | CANCELADA  | $0,00   
+61   | 16-04-2026   | 08:00    | 2325485858 | MED-194      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+62   | 25-07-2026   | 10:00    | 0549945244 | MED-137      | Perdida de vision         | NO ASISTIO | $25,00  
+63   | 07-04-2026   | 16:00    | 0434605747 | MED-116      | Dolor en el pecho         | ACTIVA     | $0,00   
+64   | 27-07-2026   | 10:00    | 0454011909 | MED-246      | Acne severo               | ACTIVA     | $0,00   
+65   | 07-05-2026   | 14:00    | 2042768693 | MED-086      | Dolor abdominal           | ATENDIDA   | $0,00   
+66   | 16-05-2026   | 18:00    | 2316934476 | MED-097      | Dolor ocular              | ACTIVA     | $0,00   
+67   | 04-11-2026   | 14:00    | 1929253597 | MED-084      | Infeccion urinaria        | ATENDIDA   | $0,00   
+68   | 21-01-2026   | 14:00    | 2440201594 | MED-047      | Chequeo de rutina         | ACTIVA     | $0,00   
+69   | 17-01-2026   | 16:00    | 1409642202 | MED-044      | Dificultad al respirar    | ATENDIDA   | $0,00   
+70   | 03-01-2026   | 14:00    | 2149631778 | MED-250      | Dolor general             | NO ASISTIO | $25,00  
+71   | 13-11-2026   | 12:00    | 1431806254 | MED-015      | Posible fractura          | ATENDIDA   | $0,00   
+72   | 04-09-2026   | 14:00    | 1049699778 | MED-115      | Posible fractura          | ACTIVA     | $0,00   
+73   | 06-11-2026   | 10:00    | 1547086247 | MED-213      | Control nino sano         | NO ASISTIO | $25,00  
+74   | 28-07-2026   | 08:00    | 1306674696 | MED-019      | Fiebre y malestar         | ACTIVA     | $0,00   
+75   | 04-08-2026   | 14:00    | 1647820719 | MED-086      | Control de gastritis      | ATENDIDA   | $0,00   
+76   | 25-12-2026   | 10:00    | 0206531162 | MED-019      | Fiebre y malestar         | ACTIVA     | $0,00   
+77   | 14-12-2026   | 16:00    | 1541408181 | MED-228      | Crisis de Asma            | CANCELADA  | $0,00   
+78   | 02-08-2026   | 08:00    | 2458209026 | MED-099      | Tos cronica               | ATENDIDA   | $0,00   
+79   | 15-09-2026   | 08:00    | 2000022844 | MED-175      | Crisis de Asma            | ATENDIDA   | $0,00   
+80   | 22-09-2026   | 16:00    | 0740001581 | MED-082      | Revision de lunares       | ACTIVA     | $0,00   
+81   | 01-10-2026   | 10:00    | 2338886589 | MED-014      | Acne severo               | ACTIVA     | $0,00   
+82   | 01-03-2026   | 12:00    | 1726107244 | MED-175      | Dificultad al respirar    | ACTIVA     | $0,00   
+83   | 08-06-2026   | 10:00    | 0619912918 | MED-219      | Acne severo               | ACTIVA     | $0,00   
+84   | 09-04-2026   | 08:00    | 0855152054 | MED-117      | Tos cronica               | ATENDIDA   | $0,00   
+85   | 15-12-2026   | 16:00    | 1541408181 | MED-004      | Control de gastritis      | ATENDIDA   | $0,00   
+86   | 01-05-2026   | 08:00    | 1301972798 | MED-223      | Chequeo de rutina         | ATENDIDA   | $0,00   
+87   | 01-07-2026   | 10:00    | 1130289703 | MED-181      | Desorden hormonal         | ATENDIDA   | $0,00   
+88   | 04-06-2026   | 08:00    | 2201987498 | MED-031      | Vacunacion                | ATENDIDA   | $0,00   
+89   | 24-03-2026   | 16:00    | 0511389058 | MED-189      | Chequeo de rutina         | ATENDIDA   | $0,00   
+90   | 23-09-2026   | 12:00    | 0842842346 | MED-028      | Crisis de Asma            | ACTIVA     | $0,00   
+91   | 20-12-2026   | 16:00    | 0250022381 | MED-046      | Problemas de tiroides     | ACTIVA     | $0,00   
+92   | 21-02-2026   | 08:00    | 1203235203 | MED-185      | Perdida de vision         | ACTIVA     | $0,00   
+93   | 12-05-2026   | 12:00    | 0843530478 | MED-051      | Problemas de garganta     | ATENDIDA   | $0,00   
+94   | 21-11-2026   | 14:00    | 0223637927 | MED-097      | Dolor ocular              | ACTIVA     | $0,00   
+95   | 19-06-2026   | 18:00    | 0929724367 | MED-039      | Fiebre y tos              | ATENDIDA   | $0,00   
+96   | 15-12-2026   | 10:00    | 0857342463 | MED-249      | Control de presion        | ACTIVA     | $0,00   
+97   | 11-08-2026   | 10:00    | 1921946925 | MED-073      | Dolor de oido             | ATENDIDA   | $0,00   
+98   | 24-07-2026   | 18:00    | 0703490128 | MED-227      | Migrana cronica           | ACTIVA     | $0,00   
+99   | 21-01-2026   | 14:00    | 2426097800 | MED-193      | Vacunacion                | ATENDIDA   | $0,00   
+100  | 14-05-2026   | 16:00    | 0850800020 | MED-166      | Desorden hormonal         | ACTIVA     | $0,00   
+101  | 21-12-2026   | 10:00    | 2452657675 | MED-089      | Sinusitis severa          | ATENDIDA   | $0,00   
+102  | 08-10-2026   | 14:00    | 1446512582 | MED-241      | Control renal             | ACTIVA     | $0,00   
+103  | 26-03-2026   | 16:00    | 0542639034 | MED-085      | Reflujo gastrico          | NO ASISTIO | $25,00  
+104  | 21-04-2026   | 16:00    | 1730543012 | MED-154      | Dolor en el pecho         | ATENDIDA   | $0,00   
+105  | 11-04-2026   | 08:00    | 1512344852 | MED-133      | Problemas de garganta     | ACTIVA     | $0,00   
+106  | 02-03-2026   | 16:00    | 2241175179 | MED-002      | Tos cronica               | ATENDIDA   | $0,00   
+107  | 22-02-2026   | 18:00    | 0817447097 | MED-011      | Dolor abdominal           | ATENDIDA   | $0,00   
+108  | 18-09-2026   | 10:00    | 2034721080 | MED-170      | Perdida de vision         | ATENDIDA   | $0,00   
+109  | 27-08-2026   | 10:00    | 1217454204 | MED-048      | Infeccion urinaria        | NO ASISTIO | $25,00  
+110  | 24-02-2026   | 16:00    | 0447476904 | MED-131      | Dolor abdominal           | ACTIVA     | $0,00   
+111  | 25-01-2026   | 12:00    | 0532469822 | MED-076      | Infeccion urinaria        | ATENDIDA   | $0,00   
+112  | 24-12-2026   | 18:00    | 1538639012 | MED-248      | Alergia en piel           | NO ASISTIO | $25,00  
+113  | 07-04-2026   | 16:00    | 2355546264 | MED-167      | Dolor de oido             | ATENDIDA   | $0,00   
+114  | 20-08-2026   | 14:00    | 0148568116 | MED-004      | Dolor abdominal           | ACTIVA     | $0,00   
+115  | 03-01-2026   | 16:00    | 1151123153 | MED-124      | Fiebre y malestar         | ATENDIDA   | $0,00   
+116  | 11-02-2026   | 16:00    | 0720154459 | MED-177      | Dificultad al respirar    | ACTIVA     | $0,00   
+117  | 25-09-2026   | 18:00    | 1135804852 | MED-150      | Control de diabetes       | CANCELADA  | $0,00   
+118  | 16-08-2026   | 18:00    | 0719006652 | MED-056      | Chequeo de rutina         | ACTIVA     | $0,00   
+119  | 28-08-2026   | 14:00    | 2111355364 | MED-097      | Dolor ocular              | ATENDIDA   | $0,00   
+120  | 19-10-2026   | 12:00    | 0919818385 | MED-218      | Tos cronica               | NO ASISTIO | $25,00  
+121  | 11-01-2026   | 14:00    | 0632461232 | MED-162      | Problemas de tiroides     | ACTIVA     | $0,00   
+122  | 06-06-2026   | 10:00    | 1115899963 | MED-212      | Dolor de oido             | NO ASISTIO | $25,00  
+123  | 04-01-2026   | 16:00    | 1021541212 | MED-116      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+124  | 17-05-2026   | 16:00    | 2323401949 | MED-245      | Dolor de oido             | ACTIVA     | $0,00   
+125  | 20-03-2026   | 08:00    | 2323913760 | MED-089      | Dolor de oido             | ATENDIDA   | $0,00   
+126  | 25-03-2026   | 16:00    | 0816398630 | MED-205      | Calculos renales          | ACTIVA     | $0,00   
+127  | 11-09-2026   | 14:00    | 0506015437 | MED-154      | Arritmia cardiaca         | ACTIVA     | $0,00   
+128  | 15-05-2026   | 14:00    | 2113954495 | MED-101      | Perdida de vision         | ATENDIDA   | $0,00   
+129  | 23-12-2026   | 10:00    | 2429073246 | MED-146      | Control de diabetes       | ACTIVA     | $0,00   
+130  | 16-06-2026   | 08:00    | 1938913827 | MED-008      | Alergia en piel           | ACTIVA     | $0,00   
+131  | 05-10-2026   | 08:00    | 2426218430 | MED-149      | Control renal             | ATENDIDA   | $0,00   
+132  | 22-01-2026   | 08:00    | 0904485463 | MED-136      | Control renal             | ACTIVA     | $0,00   
+133  | 14-10-2026   | 10:00    | 0508418829 | MED-089      | Problemas de garganta     | ATENDIDA   | $0,00   
+134  | 09-07-2026   | 08:00    | 1049666520 | MED-152      | Convulsiones              | ATENDIDA   | $0,00   
+135  | 23-03-2026   | 14:00    | 1151123153 | MED-083      | Reflujo gastrico          | ACTIVA     | $0,00   
+136  | 19-06-2026   | 16:00    | 1732210925 | MED-011      | Reflujo gastrico          | ACTIVA     | $0,00   
+137  | 20-12-2026   | 08:00    | 0854719044 | MED-125      | Dolor articular           | ATENDIDA   | $0,00   
+138  | 27-02-2026   | 14:00    | 2347289270 | MED-140      | Fiebre y tos              | ATENDIDA   | $0,00   
+139  | 11-04-2026   | 08:00    | 1139396822 | MED-249      | Arritmia cardiaca         | NO ASISTIO | $25,00  
+140  | 20-02-2026   | 14:00    | 1158724318 | MED-160      | Dolor ocular              | ATENDIDA   | $0,00   
+141  | 21-03-2026   | 18:00    | 2412306728 | MED-041      | Migrana cronica           | ACTIVA     | $0,00   
+142  | 06-04-2026   | 16:00    | 0416898682 | MED-069      | Control de gastritis      | ACTIVA     | $0,00   
+143  | 11-06-2026   | 18:00    | 0551280043 | MED-141      | Posible fractura          | ATENDIDA   | $0,00   
+144  | 26-08-2026   | 16:00    | 1706097597 | MED-004      | Control de gastritis      | ACTIVA     | $0,00   
+145  | 09-10-2026   | 14:00    | 2233752555 | MED-147      | Migrana cronica           | ATENDIDA   | $0,00   
+146  | 18-08-2026   | 08:00    | 1826463083 | MED-240      | Reflujo gastrico          | ACTIVA     | $0,00   
+147  | 09-08-2026   | 18:00    | 0310335971 | MED-098      | Perdida de vision         | ACTIVA     | $0,00   
+148  | 18-08-2026   | 14:00    | 1217878188 | MED-044      | Dificultad al respirar    | NO ASISTIO | $25,00  
+149  | 20-09-2026   | 10:00    | 0843530478 | MED-240      | Control de gastritis      | ACTIVA     | $0,00   
+150  | 23-07-2026   | 10:00    | 1156256917 | MED-013      | Fiebre y tos              | ATENDIDA   | $0,00   
+151  | 27-10-2026   | 08:00    | 1817101270 | MED-181      | Problemas de tiroides     | ATENDIDA   | $0,00   
+152  | 11-11-2026   | 12:00    | 0211675491 | MED-249      | Dolor en el pecho         | ACTIVA     | $0,00   
+153  | 06-08-2026   | 16:00    | 2205827054 | MED-178      | Convulsiones              | CANCELADA  | $0,00   
+154  | 01-04-2026   | 18:00    | 0431423722 | MED-039      | Control nino sano         | ACTIVA     | $0,00   
+155  | 11-05-2026   | 08:00    | 2329323485 | MED-009      | Reflujo gastrico          | ATENDIDA   | $0,00   
+156  | 28-04-2026   | 14:00    | 2427719790 | MED-132      | Dolor de espalda          | ATENDIDA   | $0,00   
+157  | 03-08-2026   | 16:00    | 0102941325 | MED-058      | Tos cronica               | ACTIVA     | $0,00   
+158  | 25-03-2026   | 18:00    | 2253043281 | MED-191      | Control de diabetes       | ACTIVA     | $0,00   
+159  | 23-08-2026   | 18:00    | 2349628251 | MED-191      | Problemas de tiroides     | ATENDIDA   | $0,00   
+160  | 23-03-2026   | 10:00    | 1353361957 | MED-247      | Arritmia cardiaca         | ACTIVA     | $0,00   
+161  | 20-04-2026   | 16:00    | 0418448726 | MED-018      | Control de presion        | ATENDIDA   | $0,00   
+162  | 25-12-2026   | 18:00    | 0740001581 | MED-168      | Problemas de tiroides     | ACTIVA     | $0,00   
+163  | 26-03-2026   | 16:00    | 2428323006 | MED-126      | Dolor general             | ACTIVA     | $0,00   
+164  | 11-04-2026   | 18:00    | 2431342084 | MED-153      | Problemas de garganta     | ACTIVA     | $0,00   
+165  | 15-05-2026   | 16:00    | 0409812914 | MED-237      | Dolor de oido             | ACTIVA     | $0,00   
+166  | 26-08-2026   | 14:00    | 0108386178 | MED-159      | Infeccion urinaria        | ACTIVA     | $0,00   
+167  | 16-10-2026   | 18:00    | 0803833482 | MED-007      | Infeccion urinaria        | ATENDIDA   | $0,00   
+168  | 16-12-2026   | 08:00    | 1012395610 | MED-185      | Dolor ocular              | ACTIVA     | $0,00   
+169  | 05-05-2026   | 12:00    | 0704304856 | MED-152      | Mareos y vertigo          | ACTIVA     | $0,00   
+170  | 25-10-2026   | 14:00    | 2246774836 | MED-143      | Dolor general             | NO ASISTIO | $25,00  
+171  | 21-06-2026   | 12:00    | 1927330405 | MED-014      | Revision de lunares       | NO ASISTIO | $25,00  
+172  | 06-10-2026   | 16:00    | 2347289270 | MED-182      | Control renal             | NO ASISTIO | $25,00  
+173  | 19-06-2026   | 14:00    | 2008385680 | MED-204      | Dolor en el pecho         | ACTIVA     | $0,00   
+174  | 08-10-2026   | 08:00    | 0413819368 | MED-107      | Reflujo gastrico          | ACTIVA     | $0,00   
+175  | 25-11-2026   | 10:00    | 1154431637 | MED-136      | Control renal             | ACTIVA     | $0,00   
+176  | 25-07-2026   | 08:00    | 0344566369 | MED-062      | Control renal             | ATENDIDA   | $0,00   
+177  | 11-08-2026   | 10:00    | 1921946925 | MED-146      | Desorden hormonal         | ACTIVA     | $0,00   
+178  | 01-09-2026   | 08:00    | 2346485051 | MED-061      | Chequeo de rutina         | ATENDIDA   | $0,00   
+179  | 20-03-2026   | 18:00    | 1509015655 | MED-101      | Dolor ocular              | ACTIVA     | $0,00   
+180  | 21-02-2026   | 12:00    | 0841936990 | MED-197      | Fiebre y malestar         | ATENDIDA   | $0,00   
+181  | 03-09-2026   | 18:00    | 1718882994 | MED-217      | Chequeo de rutina         | ATENDIDA   | $0,00   
+182  | 26-06-2026   | 08:00    | 1113221665 | MED-074      | Revision de lentes        | ACTIVA     | $0,00   
+183  | 26-08-2026   | 12:00    | 0912076189 | MED-163      | Dolor general             | ATENDIDA   | $0,00   
+184  | 18-11-2026   | 08:00    | 0506607571 | MED-051      | Dolor de oido             | ATENDIDA   | $0,00   
+185  | 06-07-2026   | 16:00    | 2009263258 | MED-200      | Dolor ocular              | ACTIVA     | $0,00   
+186  | 13-09-2026   | 16:00    | 1315188084 | MED-204      | Control de presion        | ATENDIDA   | $0,00   
+187  | 27-01-2026   | 08:00    | 0623143930 | MED-149      | Control renal             | ATENDIDA   | $0,00   
+188  | 12-10-2026   | 16:00    | 0406065888 | MED-042      | Acne severo               | CANCELADA  | $0,00   
+189  | 15-06-2026   | 16:00    | 1323335875 | MED-151      | Dolor de oido             | ACTIVA     | $0,00   
+190  | 04-11-2026   | 16:00    | 1257479335 | MED-035      | Control de diabetes       | ACTIVA     | $0,00   
+191  | 03-02-2026   | 12:00    | 0704375369 | MED-112      | Dolor abdominal           | ATENDIDA   | $0,00   
+192  | 23-12-2026   | 08:00    | 1536577586 | MED-185      | Perdida de vision         | NO ASISTIO | $25,00  
+193  | 12-08-2026   | 10:00    | 1455182541 | MED-149      | Control renal             | ACTIVA     | $0,00   
+194  | 13-03-2026   | 08:00    | 1154431637 | MED-170      | Perdida de vision         | ATENDIDA   | $0,00   
+195  | 03-04-2026   | 18:00    | 1127694089 | MED-124      | Fiebre y malestar         | ATENDIDA   | $0,00   
+196  | 03-04-2026   | 10:00    | 1455182541 | MED-196      | Convulsiones              | NO ASISTIO | $25,00  
+197  | 28-11-2026   | 08:00    | 2404652881 | MED-031      | Control nino sano         | NO ASISTIO | $25,00  
+198  | 07-05-2026   | 16:00    | 0358761245 | MED-010      | Control renal             | ACTIVA     | $0,00   
+199  | 17-10-2026   | 12:00    | 1311465114 | MED-051      | Dolor de oido             | CANCELADA  | $0,00   
+200  | 09-07-2026   | 12:00    | 0334449311 | MED-118      | Acne severo               | ACTIVA     | $0,00   
+201  | 11-10-2026   | 08:00    | 2140711983 | MED-192      | Dolor abdominal           | ACTIVA     | $0,00   
+202  | 06-10-2026   | 18:00    | 0356523340 | MED-225      | Convulsiones              | ATENDIDA   | $0,00   
+203  | 26-08-2026   | 08:00    | 1727824169 | MED-034      | Dolor abdominal           | ACTIVA     | $0,00   
+204  | 27-07-2026   | 18:00    | 0313079568 | MED-233      | Mareos y vertigo          | ACTIVA     | $0,00   
+205  | 21-06-2026   | 12:00    | 0623886124 | MED-249      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+206  | 06-08-2026   | 14:00    | 0454011909 | MED-225      | Migrana cronica           | ACTIVA     | $0,00   
+207  | 03-03-2026   | 14:00    | 1801339092 | MED-237      | Sinusitis severa          | NO ASISTIO | $25,00  
+208  | 03-02-2026   | 10:00    | 2342810575 | MED-117      | Tos cronica               | ATENDIDA   | $0,00   
+209  | 18-02-2026   | 12:00    | 1050145307 | MED-145      | Sinusitis severa          | ATENDIDA   | $0,00   
+210  | 27-10-2026   | 12:00    | 1552061283 | MED-213      | Vacunacion                | ACTIVA     | $0,00   
+211  | 10-06-2026   | 14:00    | 0327220356 | MED-079      | Crisis de Asma            | ATENDIDA   | $0,00   
+212  | 15-12-2026   | 16:00    | 1438932673 | MED-115      | Dolor de espalda          | ATENDIDA   | $0,00   
+213  | 22-10-2026   | 08:00    | 0441276128 | MED-063      | Infeccion urinaria        | CANCELADA  | $0,00   
+214  | 17-01-2026   | 14:00    | 0203635883 | MED-201      | Alergia en piel           | ATENDIDA   | $0,00   
+215  | 13-05-2026   | 08:00    | 0705953156 | MED-023      | Migrana cronica           | ATENDIDA   | $0,00   
+216  | 09-03-2026   | 14:00    | 0715922761 | MED-102      | Control de diabetes       | NO ASISTIO | $25,00  
+217  | 01-02-2026   | 18:00    | 2152268468 | MED-227      | Migrana cronica           | CANCELADA  | $0,00   
+218  | 24-11-2026   | 12:00    | 0719006652 | MED-188      | Posible fractura          | ACTIVA     | $0,00   
+219  | 07-05-2026   | 16:00    | 2214298248 | MED-036      | Chequeo de rutina         | CANCELADA  | $0,00   
+220  | 08-01-2026   | 18:00    | 1701689497 | MED-222      | Fiebre y malestar         | CANCELADA  | $0,00   
+221  | 03-07-2026   | 14:00    | 0857568224 | MED-116      | Control de presion        | ACTIVA     | $0,00   
+222  | 04-11-2026   | 10:00    | 2225175153 | MED-163      | Chequeo de rutina         | ATENDIDA   | $0,00   
+223  | 19-05-2026   | 14:00    | 1142733581 | MED-147      | Mareos y vertigo          | ACTIVA     | $0,00   
+224  | 19-01-2026   | 18:00    | 1817441999 | MED-109      | Control de presion        | ACTIVA     | $0,00   
+225  | 24-04-2026   | 18:00    | 1754467965 | MED-002      | Tos cronica               | ACTIVA     | $0,00   
+226  | 06-09-2026   | 14:00    | 1702526201 | MED-227      | Mareos y vertigo          | ACTIVA     | $0,00   
+227  | 03-09-2026   | 16:00    | 1019937240 | MED-103      | Calculos renales          | NO ASISTIO | $25,00  
+228  | 20-08-2026   | 12:00    | 2019799804 | MED-226      | Mareos y vertigo          | ATENDIDA   | $0,00   
+229  | 01-01-2026   | 08:00    | 0929684249 | MED-183      | Acne severo               | ATENDIDA   | $0,00   
+230  | 12-02-2026   | 14:00    | 1133572097 | MED-167      | Problemas de garganta     | ATENDIDA   | $0,00   
+231  | 02-02-2026   | 08:00    | 1327261028 | MED-195      | Chequeo de rutina         | ACTIVA     | $0,00   
+232  | 02-09-2026   | 16:00    | 0920828456 | MED-041      | Convulsiones              | ATENDIDA   | $0,00   
+233  | 28-03-2026   | 14:00    | 1145269237 | MED-190      | Revision de lunares       | ACTIVA     | $0,00   
+234  | 23-01-2026   | 14:00    | 0926617887 | MED-096      | Mareos y vertigo          | CANCELADA  | $0,00   
+235  | 12-03-2026   | 16:00    | 1944666971 | MED-041      | Convulsiones              | NO ASISTIO | $25,00  
+236  | 01-12-2026   | 08:00    | 2152268468 | MED-009      | Control de gastritis      | CANCELADA  | $0,00   
+237  | 06-09-2026   | 16:00    | 1438932673 | MED-138      | Dolor general             | ACTIVA     | $0,00   
+238  | 12-06-2026   | 14:00    | 1810918589 | MED-135      | Desorden hormonal         | ATENDIDA   | $0,00   
+239  | 05-12-2026   | 12:00    | 1142733581 | MED-192      | Control de gastritis      | NO ASISTIO | $25,00  
+240  | 21-05-2026   | 18:00    | 0739628246 | MED-165      | Tos cronica               | CANCELADA  | $0,00   
+241  | 20-12-2026   | 10:00    | 0327220356 | MED-107      | Control de gastritis      | ACTIVA     | $0,00   
+242  | 17-10-2026   | 14:00    | 0504049008 | MED-178      | Mareos y vertigo          | ACTIVA     | $0,00   
+243  | 05-01-2026   | 12:00    | 1431460797 | MED-029      | Fiebre y tos              | ACTIVA     | $0,00   
+244  | 22-01-2026   | 08:00    | 0110158359 | MED-030      | Dificultad al respirar    | NO ASISTIO | $25,00  
+245  | 16-10-2026   | 14:00    | 1921152607 | MED-007      | Control renal             | ACTIVA     | $0,00   
+246  | 20-04-2026   | 16:00    | 2329323485 | MED-124      | Chequeo de rutina         | NO ASISTIO | $25,00  
+247  | 08-07-2026   | 16:00    | 0504044546 | MED-205      | Infeccion urinaria        | ACTIVA     | $0,00   
+248  | 16-03-2026   | 14:00    | 1431460797 | MED-151      | Problemas de garganta     | ACTIVA     | $0,00   
+249  | 24-09-2026   | 08:00    | 0551280043 | MED-219      | Alergia en piel           | ACTIVA     | $0,00   
+250  | 12-04-2026   | 16:00    | 1014862641 | MED-201      | Acne severo               | CANCELADA  | $0,00   
+251  | 02-01-2026   | 18:00    | 0552985541 | MED-131      | Control de gastritis      | ATENDIDA   | $0,00   
+252  | 19-04-2026   | 18:00    | 0756783775 | MED-115      | Posible fractura          | ACTIVA     | $0,00   
+253  | 07-08-2026   | 18:00    | 0645830688 | MED-165      | Tos cronica               | ATENDIDA   | $0,00   
+254  | 20-07-2026   | 16:00    | 0447476904 | MED-090      | Acne severo               | ATENDIDA   | $0,00   
+255  | 11-08-2026   | 12:00    | 0929684249 | MED-008      | Acne severo               | ATENDIDA   | $0,00   
+256  | 15-07-2026   | 10:00    | 0802849174 | MED-017      | Control de diabetes       | ATENDIDA   | $0,00   
+257  | 13-04-2026   | 08:00    | 1751397686 | MED-076      | Calculos renales          | CANCELADA  | $0,00   
+258  | 06-04-2026   | 08:00    | 2131910693 | MED-049      | Chequeo de rutina         | NO ASISTIO | $25,00  
+259  | 04-06-2026   | 12:00    | 2219037054 | MED-009      | Dolor abdominal           | ACTIVA     | $0,00   
+260  | 21-04-2026   | 14:00    | 1426932404 | MED-243      | Calculos renales          | ACTIVA     | $0,00   
+261  | 21-12-2026   | 16:00    | 1458223383 | MED-154      | Control de presion        | ACTIVA     | $0,00   
+262  | 17-07-2026   | 08:00    | 0942730235 | MED-092      | Acne severo               | NO ASISTIO | $25,00  
+263  | 11-09-2026   | 16:00    | 1402585234 | MED-169      | Problemas de garganta     | ACTIVA     | $0,00   
+264  | 15-07-2026   | 18:00    | 0749445250 | MED-166      | Desorden hormonal         | ACTIVA     | $0,00   
+265  | 05-08-2026   | 12:00    | 0502987340 | MED-145      | Sinusitis severa          | ATENDIDA   | $0,00   
+266  | 13-01-2026   | 14:00    | 1202612998 | MED-237      | Dolor de oido             | ACTIVA     | $0,00   
+267  | 01-01-2026   | 18:00    | 0539979740 | MED-227      | Convulsiones              | ATENDIDA   | $0,00   
+268  | 27-05-2026   | 18:00    | 0913972485 | MED-007      | Infeccion urinaria        | ACTIVA     | $0,00   
+269  | 04-09-2026   | 18:00    | 1808293615 | MED-082      | Revision de lunares       | ATENDIDA   | $0,00   
+270  | 02-08-2026   | 18:00    | 1429985078 | MED-067      | Tos cronica               | ACTIVA     | $0,00   
+271  | 27-08-2026   | 12:00    | 1217878188 | MED-195      | Dolor general             | CANCELADA  | $0,00   
+272  | 15-01-2026   | 16:00    | 0719006652 | MED-151      | Problemas de garganta     | ACTIVA     | $0,00   
+273  | 14-05-2026   | 16:00    | 0504266628 | MED-010      | Infeccion urinaria        | ATENDIDA   | $0,00   
+274  | 12-11-2026   | 14:00    | 2323913760 | MED-130      | Dificultad al respirar    | CANCELADA  | $0,00   
+275  | 15-08-2026   | 16:00    | 0624422507 | MED-162      | Problemas de tiroides     | ACTIVA     | $0,00   
+276  | 09-07-2026   | 08:00    | 0440262004 | MED-117      | Crisis de Asma            | NO ASISTIO | $25,00  
+277  | 19-03-2026   | 18:00    | 2410330324 | MED-243      | Infeccion urinaria        | ACTIVA     | $0,00   
+278  | 11-07-2026   | 08:00    | 0645598012 | MED-055      | Migrana cronica           | CANCELADA  | $0,00   
+279  | 07-05-2026   | 16:00    | 1647708757 | MED-207      | Desorden hormonal         | ACTIVA     | $0,00   
+280  | 11-08-2026   | 16:00    | 0350023925 | MED-124      | Chequeo de rutina         | ATENDIDA   | $0,00   
+281  | 15-08-2026   | 10:00    | 0908183890 | MED-121      | Crisis de Asma            | ACTIVA     | $0,00   
+282  | 07-02-2026   | 14:00    | 2350965451 | MED-225      | Convulsiones              | ACTIVA     | $0,00   
+283  | 18-05-2026   | 10:00    | 1446391946 | MED-145      | Problemas de garganta     | ACTIVA     | $0,00   
+284  | 15-03-2026   | 10:00    | 0434605747 | MED-185      | Dolor ocular              | ACTIVA     | $0,00   
+285  | 03-06-2026   | 08:00    | 2347546976 | MED-009      | Reflujo gastrico          | ATENDIDA   | $0,00   
+286  | 16-11-2026   | 08:00    | 2356001731 | MED-012      | Problemas de tiroides     | ACTIVA     | $0,00   
+287  | 19-06-2026   | 16:00    | 0918388968 | MED-157      | Convulsiones              | ATENDIDA   | $0,00   
+288  | 04-04-2026   | 10:00    | 1755765615 | MED-104      | Dificultad al respirar    | ATENDIDA   | $0,00   
+289  | 17-12-2026   | 08:00    | 1927330405 | MED-045      | Revision de lentes        | ATENDIDA   | $0,00   
+290  | 06-06-2026   | 12:00    | 2034721080 | MED-136      | Infeccion urinaria        | ATENDIDA   | $0,00   
+291  | 16-08-2026   | 18:00    | 0649576758 | MED-106      | Sinusitis severa          | ACTIVA     | $0,00   
+292  | 05-11-2026   | 18:00    | 0549945244 | MED-172      | Posible fractura          | ATENDIDA   | $0,00   
+293  | 26-10-2026   | 08:00    | 2142755269 | MED-158      | Perdida de vision         | CANCELADA  | $0,00   
+294  | 14-08-2026   | 10:00    | 2347147031 | MED-015      | Dolor articular           | NO ASISTIO | $25,00  
+295  | 12-09-2026   | 18:00    | 1145269237 | MED-167      | Sinusitis severa          | ATENDIDA   | $0,00   
+296  | 16-01-2026   | 18:00    | 1938263827 | MED-241      | Calculos renales          | NO ASISTIO | $25,00  
+297  | 22-01-2026   | 08:00    | 0508418829 | MED-249      | Control de presion        | ACTIVA     | $0,00   
+298  | 06-08-2026   | 14:00    | 2249534328 | MED-129      | Dolor de oido             | ATENDIDA   | $0,00   
+299  | 07-11-2026   | 16:00    | 2412306728 | MED-056      | Chequeo de rutina         | NO ASISTIO | $25,00  
+300  | 12-10-2026   | 10:00    | 0240916577 | MED-152      | Mareos y vertigo          | ACTIVA     | $0,00   
+301  | 18-08-2026   | 08:00    | 0857568224 | MED-063      | Control renal             | ATENDIDA   | $0,00   
+302  | 08-07-2026   | 10:00    | 2018922407 | MED-215      | Control de presion        | ATENDIDA   | $0,00   
+303  | 05-09-2026   | 16:00    | 0341904233 | MED-244      | Fiebre y malestar         | ACTIVA     | $0,00   
+304  | 01-04-2026   | 08:00    | 0441276128 | MED-073      | Dolor de oido             | ACTIVA     | $0,00   
+305  | 04-11-2026   | 14:00    | 0839043205 | MED-067      | Dificultad al respirar    | ACTIVA     | $0,00   
+306  | 22-11-2026   | 14:00    | 0908183890 | MED-068      | Infeccion urinaria        | ATENDIDA   | $0,00   
+307  | 06-04-2026   | 08:00    | 2346485051 | MED-192      | Reflujo gastrico          | ACTIVA     | $0,00   
+308  | 23-05-2026   | 18:00    | 0843342858 | MED-123      | Fiebre y malestar         | ACTIVA     | $0,00   
+309  | 22-07-2026   | 14:00    | 0252108857 | MED-001      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+310  | 10-02-2026   | 18:00    | 0441276128 | MED-205      | Infeccion urinaria        | ATENDIDA   | $0,00   
+311  | 22-06-2026   | 18:00    | 1250942826 | MED-205      | Infeccion urinaria        | ATENDIDA   | $0,00   
+312  | 10-04-2026   | 18:00    | 1342408406 | MED-001      | Arritmia cardiaca         | ACTIVA     | $0,00   
+313  | 23-03-2026   | 08:00    | 1606543013 | MED-164      | Mareos y vertigo          | ATENDIDA   | $0,00   
+314  | 02-11-2026   | 16:00    | 0643494560 | MED-202      | Crisis de Asma            | ACTIVA     | $0,00   
+315  | 17-10-2026   | 12:00    | 2440201594 | MED-060      | Acne severo               | ACTIVA     | $0,00   
+316  | 23-01-2026   | 16:00    | 2055126227 | MED-161      | Control renal             | ACTIVA     | $0,00   
+317  | 02-07-2026   | 10:00    | 1552061283 | MED-112      | Control de gastritis      | ATENDIDA   | $0,00   
+318  | 24-11-2026   | 12:00    | 1718882994 | MED-158      | Revision de lentes        | ACTIVA     | $0,00   
+319  | 27-05-2026   | 08:00    | 0935361485 | MED-074      | Revision de lentes        | ATENDIDA   | $0,00   
+320  | 08-01-2026   | 16:00    | 0454011909 | MED-080      | Problemas de garganta     | ACTIVA     | $0,00   
+321  | 13-08-2026   | 10:00    | 1353591504 | MED-158      | Dolor ocular              | ACTIVA     | $0,00   
+322  | 03-05-2026   | 08:00    | 1049699778 | MED-180      | Problemas de garganta     | ATENDIDA   | $0,00   
+323  | 09-09-2026   | 12:00    | 0306485665 | MED-072      | Calculos renales          | ACTIVA     | $0,00   
+324  | 18-07-2026   | 08:00    | 2356019279 | MED-242      | Dolor general             | ATENDIDA   | $0,00   
+325  | 03-05-2026   | 16:00    | 1327261028 | MED-156      | Desorden hormonal         | ACTIVA     | $0,00   
+326  | 19-01-2026   | 16:00    | 1356058279 | MED-147      | Migrana cronica           | NO ASISTIO | $25,00  
+327  | 17-05-2026   | 18:00    | 1517522809 | MED-187      | Acne severo               | ATENDIDA   | $0,00   
+328  | 17-08-2026   | 12:00    | 2000022844 | MED-192      | Control de gastritis      | ATENDIDA   | $0,00   
+329  | 24-02-2026   | 14:00    | 0248559643 | MED-233      | Mareos y vertigo          | ATENDIDA   | $0,00   
+330  | 08-08-2026   | 12:00    | 2407005434 | MED-214      | Dolor de espalda          | ATENDIDA   | $0,00   
+331  | 04-05-2026   | 12:00    | 0249834847 | MED-024      | Dolor en el pecho         | NO ASISTIO | $25,00  
+332  | 10-10-2026   | 08:00    | 1133572097 | MED-212      | Dolor de oido             | ACTIVA     | $0,00   
+333  | 16-11-2026   | 14:00    | 0446184251 | MED-042      | Acne severo               | ATENDIDA   | $0,00   
+334  | 21-09-2026   | 12:00    | 1727824169 | MED-077      | Problemas de garganta     | ATENDIDA   | $0,00   
+335  | 27-02-2026   | 16:00    | 0841936990 | MED-033      | Calculos renales          | NO ASISTIO | $25,00  
+336  | 27-07-2026   | 08:00    | 0632461232 | MED-125      | Dolor articular           | NO ASISTIO | $25,00  
+337  | 11-05-2026   | 12:00    | 0645598012 | MED-240      | Control de gastritis      | CANCELADA  | $0,00   
+338  | 16-08-2026   | 14:00    | 1741334088 | MED-205      | Infeccion urinaria        | ATENDIDA   | $0,00   
+339  | 20-07-2026   | 16:00    | 1751397686 | MED-097      | Dolor ocular              | ACTIVA     | $0,00   
+340  | 26-07-2026   | 12:00    | 0257914895 | MED-030      | Dificultad al respirar    | CANCELADA  | $0,00   
+341  | 21-03-2026   | 16:00    | 0203069893 | MED-010      | Calculos renales          | ACTIVA     | $0,00   
+342  | 13-01-2026   | 16:00    | 1734529926 | MED-056      | Fiebre y malestar         | ACTIVA     | $0,00   
+343  | 01-08-2026   | 08:00    | 2218097935 | MED-215      | Dolor en el pecho         | NO ASISTIO | $25,00  
+344  | 26-08-2026   | 12:00    | 0311298707 | MED-031      | Fiebre y tos              | ACTIVA     | $0,00   
+345  | 14-02-2026   | 14:00    | 0702146515 | MED-094      | Dificultad al respirar    | ATENDIDA   | $0,00   
+346  | 14-05-2026   | 14:00    | 0907066385 | MED-150      | Desorden hormonal         | ATENDIDA   | $0,00   
+347  | 05-06-2026   | 14:00    | 1457677647 | MED-086      | Reflujo gastrico          | CANCELADA  | $0,00   
+348  | 02-12-2026   | 14:00    | 1431460797 | MED-022      | Crisis de Asma            | ATENDIDA   | $0,00   
+349  | 10-09-2026   | 08:00    | 1104970817 | MED-203      | Vacunacion                | NO ASISTIO | $25,00  
+350  | 20-11-2026   | 10:00    | 1820217360 | MED-240      | Dolor abdominal           | ACTIVA     | $0,00   
+351  | 11-04-2026   | 08:00    | 2232346425 | MED-221      | Dolor ocular              | ACTIVA     | $0,00   
+352  | 04-06-2026   | 08:00    | 1459255871 | MED-194      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+353  | 13-04-2026   | 10:00    | 2101736805 | MED-128      | Alergia en piel           | ACTIVA     | $0,00   
+354  | 07-07-2026   | 08:00    | 1306674696 | MED-145      | Sinusitis severa          | ATENDIDA   | $0,00   
+355  | 01-10-2026   | 18:00    | 1321073296 | MED-153      | Dolor de oido             | CANCELADA  | $0,00   
+356  | 03-03-2026   | 12:00    | 0420064693 | MED-203      | Vacunacion                | NO ASISTIO | $25,00  
+357  | 28-11-2026   | 12:00    | 1734529926 | MED-146      | Desorden hormonal         | ATENDIDA   | $0,00   
+358  | 04-10-2026   | 18:00    | 0358761245 | MED-202      | Crisis de Asma            | NO ASISTIO | $25,00  
+359  | 10-04-2026   | 08:00    | 1257479335 | MED-173      | Problemas de garganta     | CANCELADA  | $0,00   
+360  | 03-10-2026   | 16:00    | 1104970817 | MED-018      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+361  | 25-07-2026   | 10:00    | 1059905818 | MED-078      | Revision de lunares       | ACTIVA     | $0,00   
+362  | 21-11-2026   | 18:00    | 0305845273 | MED-224      | Acne severo               | ACTIVA     | $0,00   
+363  | 14-03-2026   | 18:00    | 0348046491 | MED-095      | Dolor general             | ATENDIDA   | $0,00   
+364  | 12-07-2026   | 16:00    | 0619738586 | MED-130      | Dificultad al respirar    | ACTIVA     | $0,00   
+365  | 09-03-2026   | 16:00    | 0250022381 | MED-231      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+366  | 03-11-2026   | 16:00    | 2423389986 | MED-115      | Dolor articular           | ATENDIDA   | $0,00   
+367  | 05-10-2026   | 12:00    | 0424333052 | MED-024      | Dolor en el pecho         | ATENDIDA   | $0,00   
+368  | 13-03-2026   | 12:00    | 2401195611 | MED-038      | Dolor ocular              | NO ASISTIO | $25,00  
+369  | 09-11-2026   | 08:00    | 1551077157 | MED-242      | Dolor general             | NO ASISTIO | $25,00  
+370  | 07-12-2026   | 16:00    | 0822736336 | MED-001      | Dolor en el pecho         | CANCELADA  | $0,00   
+371  | 23-06-2026   | 18:00    | 0231361320 | MED-091      | Chequeo de rutina         | ACTIVA     | $0,00   
+372  | 09-08-2026   | 12:00    | 0137502548 | MED-013      | Vacunacion                | ATENDIDA   | $0,00   
+373  | 28-04-2026   | 12:00    | 2428323006 | MED-216      | Reflujo gastrico          | ACTIVA     | $0,00   
+374  | 03-12-2026   | 18:00    | 1102657127 | MED-069      | Dolor abdominal           | ATENDIDA   | $0,00   
+375  | 12-10-2026   | 08:00    | 1315146710 | MED-181      | Problemas de tiroides     | ATENDIDA   | $0,00   
+376  | 05-09-2026   | 14:00    | 1024628198 | MED-138      | Chequeo de rutina         | ATENDIDA   | $0,00   
+377  | 09-09-2026   | 08:00    | 0653373936 | MED-088      | Dolor articular           | CANCELADA  | $0,00   
+378  | 13-03-2026   | 18:00    | 0508418829 | MED-225      | Mareos y vertigo          | ATENDIDA   | $0,00   
+379  | 12-02-2026   | 18:00    | 1326422753 | MED-187      | Acne severo               | ACTIVA     | $0,00   
+380  | 22-11-2026   | 08:00    | 1049666520 | MED-232      | Fiebre y malestar         | ATENDIDA   | $0,00   
+381  | 10-06-2026   | 08:00    | 2458209026 | MED-012      | Control de diabetes       | ACTIVA     | $0,00   
+382  | 08-07-2026   | 14:00    | 1222133140 | MED-220      | Problemas de garganta     | ATENDIDA   | $0,00   
+383  | 03-02-2026   | 10:00    | 1822666911 | MED-078      | Acne severo               | ATENDIDA   | $0,00   
+384  | 12-04-2026   | 16:00    | 0304818867 | MED-140      | Fiebre y tos              | ATENDIDA   | $0,00   
+385  | 14-04-2026   | 08:00    | 0203471073 | MED-183      | Alergia en piel           | ATENDIDA   | $0,00   
+386  | 24-02-2026   | 10:00    | 0135250850 | MED-027      | Fiebre y tos              | ACTIVA     | $0,00   
+387  | 18-07-2026   | 08:00    | 1921152607 | MED-045      | Revision de lentes        | ACTIVA     | $0,00   
+388  | 03-07-2026   | 10:00    | 0653373936 | MED-230      | Dolor general             | NO ASISTIO | $25,00  
+389  | 20-10-2026   | 18:00    | 1502573692 | MED-090      | Revision de lunares       | ATENDIDA   | $0,00   
+390  | 12-11-2026   | 16:00    | 0414046151 | MED-159      | Infeccion urinaria        | ATENDIDA   | $0,00   
+391  | 23-08-2026   | 08:00    | 2005037995 | MED-105      | Revision de lunares       | ACTIVA     | $0,00   
+392  | 24-12-2026   | 14:00    | 1644775924 | MED-161      | Calculos renales          | ACTIVA     | $0,00   
+393  | 18-08-2026   | 08:00    | 1928747888 | MED-226      | Convulsiones              | CANCELADA  | $0,00   
+394  | 02-07-2026   | 08:00    | 1502861931 | MED-137      | Dolor ocular              | ATENDIDA   | $0,00   
+395  | 23-01-2026   | 10:00    | 0344566369 | MED-230      | Chequeo de rutina         | CANCELADA  | $0,00   
+396  | 05-12-2026   | 08:00    | 1154431637 | MED-117      | Crisis de Asma            | ACTIVA     | $0,00   
+397  | 11-02-2026   | 12:00    | 1401257264 | MED-128      | Revision de lunares       | ACTIVA     | $0,00   
+398  | 09-01-2026   | 18:00    | 0516804895 | MED-041      | Convulsiones              | ACTIVA     | $0,00   
+399  | 15-07-2026   | 12:00    | 1342408406 | MED-215      | Control de presion        | ATENDIDA   | $0,00   
+400  | 20-10-2026   | 16:00    | 0705782308 | MED-022      | Dificultad al respirar    | ACTIVA     | $0,00   
+401  | 23-05-2026   | 14:00    | 0519577290 | MED-069      | Dolor abdominal           | ACTIVA     | $0,00   
+402  | 05-05-2026   | 08:00    | 2149631778 | MED-206      | Problemas de garganta     | ATENDIDA   | $0,00   
+403  | 09-01-2026   | 16:00    | 1757623077 | MED-134      | Dolor de espalda          | ATENDIDA   | $0,00   
+404  | 11-10-2026   | 08:00    | 1655946828 | MED-088      | Posible fractura          | ACTIVA     | $0,00   
+405  | 18-08-2026   | 16:00    | 2347591345 | MED-116      | Control de presion        | ATENDIDA   | $0,00   
+406  | 14-07-2026   | 10:00    | 1509015655 | MED-206      | Sinusitis severa          | ACTIVA     | $0,00   
+407  | 11-03-2026   | 08:00    | 0342345154 | MED-065      | Dolor de oido             | ACTIVA     | $0,00   
+408  | 24-01-2026   | 10:00    | 2452657675 | MED-089      | Sinusitis severa          | ATENDIDA   | $0,00   
+409  | 04-12-2026   | 16:00    | 2152268468 | MED-126      | Fiebre y malestar         | NO ASISTIO | $25,00  
+410  | 17-12-2026   | 08:00    | 1448650786 | MED-194      | Arritmia cardiaca         | ACTIVA     | $0,00   
+411  | 16-06-2026   | 16:00    | 0720107341 | MED-091      | Dolor general             | ACTIVA     | $0,00   
+412  | 09-10-2026   | 14:00    | 1823845381 | MED-002      | Tos cronica               | ACTIVA     | $0,00   
+413  | 26-03-2026   | 08:00    | 1300049309 | MED-215      | Control de presion        | ACTIVA     | $0,00   
+414  | 28-11-2026   | 08:00    | 2416303663 | MED-078      | Alergia en piel           | CANCELADA  | $0,00   
+415  | 15-01-2026   | 10:00    | 0532469822 | MED-089      | Sinusitis severa          | ACTIVA     | $0,00   
+416  | 28-05-2026   | 16:00    | 1154431637 | MED-148      | Posible fractura          | ACTIVA     | $0,00   
+417  | 26-12-2026   | 16:00    | 1005480239 | MED-018      | Dolor en el pecho         | ACTIVA     | $0,00   
+418  | 08-09-2026   | 16:00    | 0504049008 | MED-021      | Convulsiones              | ACTIVA     | $0,00   
+419  | 14-04-2026   | 14:00    | 0422038034 | MED-245      | Sinusitis severa          | ATENDIDA   | $0,00   
+420  | 04-07-2026   | 10:00    | 1148255894 | MED-070      | Migrana cronica           | ACTIVA     | $0,00   
+421  | 21-12-2026   | 08:00    | 2237261892 | MED-181      | Desorden hormonal         | ATENDIDA   | $0,00   
+422  | 01-12-2026   | 12:00    | 0756472163 | MED-230      | Dolor general             | CANCELADA  | $0,00   
+423  | 04-08-2026   | 12:00    | 1732210925 | MED-196      | Convulsiones              | ACTIVA     | $0,00   
+424  | 09-06-2026   | 08:00    | 0110134467 | MED-120      | Convulsiones              | ACTIVA     | $0,00   
+425  | 28-01-2026   | 16:00    | 1150589305 | MED-176      | Calculos renales          | ATENDIDA   | $0,00   
+426  | 12-06-2026   | 14:00    | 0137502548 | MED-167      | Dolor de oido             | ATENDIDA   | $0,00   
+427  | 25-04-2026   | 18:00    | 0843530478 | MED-140      | Fiebre y tos              | ATENDIDA   | $0,00   
+428  | 19-01-2026   | 16:00    | 0110575685 | MED-155      | Tos cronica               | CANCELADA  | $0,00   
+429  | 25-02-2026   | 10:00    | 0317184893 | MED-158      | Perdida de vision         | ATENDIDA   | $0,00   
+430  | 27-07-2026   | 14:00    | 1438932673 | MED-085      | Control de gastritis      | ATENDIDA   | $0,00   
+431  | 13-04-2026   | 14:00    | 1814576425 | MED-068      | Calculos renales          | ACTIVA     | $0,00   
+432  | 02-05-2026   | 10:00    | 1958386623 | MED-040      | Problemas de garganta     | ACTIVA     | $0,00   
+433  | 10-03-2026   | 16:00    | 0719006652 | MED-166      | Control de diabetes       | ATENDIDA   | $0,00   
+434  | 16-09-2026   | 14:00    | 1555543212 | MED-244      | Chequeo de rutina         | ATENDIDA   | $0,00   
+435  | 28-12-2026   | 16:00    | 0827211962 | MED-208      | Convulsiones              | ACTIVA     | $0,00   
+436  | 22-08-2026   | 10:00    | 1409642202 | MED-198      | Convulsiones              | ATENDIDA   | $0,00   
+437  | 25-01-2026   | 14:00    | 0913410098 | MED-172      | Dolor de espalda          | ATENDIDA   | $0,00   
+438  | 01-02-2026   | 08:00    | 0414046151 | MED-197      | Fiebre y malestar         | ATENDIDA   | $0,00   
+439  | 14-01-2026   | 14:00    | 0557969664 | MED-097      | Perdida de vision         | ATENDIDA   | $0,00   
+440  | 15-05-2026   | 12:00    | 1702913037 | MED-060      | Alergia en piel           | ATENDIDA   | $0,00   
+441  | 12-07-2026   | 14:00    | 0631929270 | MED-207      | Control de diabetes       | ATENDIDA   | $0,00   
+442  | 08-06-2026   | 14:00    | 1115488304 | MED-020      | Dolor ocular              | ATENDIDA   | $0,00   
+443  | 27-10-2026   | 10:00    | 0847489549 | MED-012      | Desorden hormonal         | ATENDIDA   | $0,00   
+444  | 25-09-2026   | 12:00    | 0822736336 | MED-061      | Fiebre y malestar         | ACTIVA     | $0,00   
+445  | 13-01-2026   | 10:00    | 0649576758 | MED-077      | Dolor de oido             | ACTIVA     | $0,00   
+446  | 28-03-2026   | 08:00    | 2220196931 | MED-026      | Fiebre y tos              | NO ASISTIO | $25,00  
+447  | 23-04-2026   | 18:00    | 0351033246 | MED-002      | Tos cronica               | ACTIVA     | $0,00   
+448  | 08-02-2026   | 10:00    | 1604697795 | MED-180      | Dolor de oido             | ACTIVA     | $0,00   
+449  | 26-07-2026   | 08:00    | 1135804852 | MED-113      | Dolor de espalda          | CANCELADA  | $0,00   
+450  | 12-03-2026   | 10:00    | 1858691148 | MED-108      | Dolor ocular              | ATENDIDA   | $0,00   
+451  | 03-05-2026   | 10:00    | 2338886589 | MED-196      | Migrana cronica           | NO ASISTIO | $25,00  
+452  | 17-10-2026   | 16:00    | 0900348939 | MED-205      | Infeccion urinaria        | CANCELADA  | $0,00   
+453  | 26-06-2026   | 18:00    | 0246547228 | MED-169      | Dolor de oido             | NO ASISTIO | $25,00  
+454  | 18-09-2026   | 14:00    | 0306485665 | MED-127      | Calculos renales          | ATENDIDA   | $0,00   
+455  | 21-03-2026   | 18:00    | 0526232632 | MED-156      | Desorden hormonal         | ACTIVA     | $0,00   
+456  | 26-09-2026   | 12:00    | 1138679558 | MED-107      | Reflujo gastrico          | ATENDIDA   | $0,00   
+457  | 09-10-2026   | 12:00    | 1418817589 | MED-104      | Dificultad al respirar    | ACTIVA     | $0,00   
+458  | 05-02-2026   | 08:00    | 0231361320 | MED-024      | Dolor en el pecho         | ATENDIDA   | $0,00   
+459  | 22-02-2026   | 10:00    | 0441276128 | MED-057      | Problemas de tiroides     | CANCELADA  | $0,00   
+460  | 20-01-2026   | 18:00    | 2114383561 | MED-205      | Infeccion urinaria        | ACTIVA     | $0,00   
+461  | 07-09-2026   | 08:00    | 2404373801 | MED-089      | Sinusitis severa          | ACTIVA     | $0,00   
+462  | 13-05-2026   | 18:00    | 1547086247 | MED-190      | Alergia en piel           | ATENDIDA   | $0,00   
+463  | 15-08-2026   | 08:00    | 1133572097 | MED-045      | Perdida de vision         | ACTIVA     | $0,00   
+464  | 12-04-2026   | 18:00    | 1540871124 | MED-090      | Alergia en piel           | ACTIVA     | $0,00   
+465  | 08-09-2026   | 08:00    | 0446184251 | MED-014      | Revision de lunares       | ATENDIDA   | $0,00   
+466  | 06-10-2026   | 18:00    | 0230531899 | MED-115      | Posible fractura          | NO ASISTIO | $25,00  
+467  | 18-11-2026   | 14:00    | 0848440970 | MED-041      | Migrana cronica           | ACTIVA     | $0,00   
+468  | 12-06-2026   | 12:00    | 0841936990 | MED-075      | Reflujo gastrico          | ACTIVA     | $0,00   
+469  | 12-05-2026   | 12:00    | 1021541212 | MED-078      | Acne severo               | ACTIVA     | $0,00   
+470  | 16-05-2026   | 14:00    | 0414046151 | MED-022      | Dificultad al respirar    | ACTIVA     | $0,00   
+471  | 21-11-2026   | 16:00    | 2431735303 | MED-007      | Control renal             | ATENDIDA   | $0,00   
+472  | 26-01-2026   | 12:00    | 1338128562 | MED-031      | Fiebre y tos              | ATENDIDA   | $0,00   
+473  | 07-10-2026   | 10:00    | 0809070444 | MED-005      | Revision de lentes        | ATENDIDA   | $0,00   
+474  | 07-07-2026   | 08:00    | 0438159980 | MED-145      | Problemas de garganta     | ATENDIDA   | $0,00   
+475  | 23-06-2026   | 16:00    | 0135015469 | MED-160      | Dolor ocular              | ATENDIDA   | $0,00   
+476  | 25-11-2026   | 10:00    | 0803833482 | MED-105      | Revision de lunares       | ACTIVA     | $0,00   
+477  | 13-02-2026   | 14:00    | 1718882994 | MED-044      | Dificultad al respirar    | ATENDIDA   | $0,00   
+478  | 11-07-2026   | 14:00    | 0551280043 | MED-044      | Crisis de Asma            | ATENDIDA   | $0,00   
+479  | 03-02-2026   | 10:00    | 1544615576 | MED-029      | Control nino sano         | CANCELADA  | $0,00   
+480  | 12-04-2026   | 18:00    | 1146382567 | MED-217      | Fiebre y malestar         | ATENDIDA   | $0,00   
+481  | 06-11-2026   | 18:00    | 1315188084 | MED-199      | Problemas de garganta     | ACTIVA     | $0,00   
+482  | 09-10-2026   | 16:00    | 0443741806 | MED-248      | Alergia en piel           | ACTIVA     | $0,00   
+483  | 07-03-2026   | 08:00    | 0257914895 | MED-112      | Reflujo gastrico          | ACTIVA     | $0,00   
+484  | 09-10-2026   | 08:00    | 1517522809 | MED-060      | Acne severo               | ATENDIDA   | $0,00   
+485  | 27-05-2026   | 08:00    | 0113130678 | MED-015      | Posible fractura          | CANCELADA  | $0,00   
+486  | 23-10-2026   | 16:00    | 0843342858 | MED-098      | Perdida de vision         | ACTIVA     | $0,00   
+487  | 22-03-2026   | 14:00    | 0619912918 | MED-234      | Migrana cronica           | ATENDIDA   | $0,00   
+488  | 15-11-2026   | 10:00    | 1823845381 | MED-066      | Dolor de espalda          | ATENDIDA   | $0,00   
+489  | 02-06-2026   | 12:00    | 1151123153 | MED-027      | Fiebre y tos              | ACTIVA     | $0,00   
+490  | 06-09-2026   | 16:00    | 1607125513 | MED-171      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+491  | 28-12-2026   | 14:00    | 0519577290 | MED-191      | Problemas de tiroides     | ACTIVA     | $0,00   
+492  | 22-10-2026   | 12:00    | 0427770821 | MED-246      | Alergia en piel           | ATENDIDA   | $0,00   
+493  | 09-08-2026   | 14:00    | 1222133140 | MED-096      | Mareos y vertigo          | ACTIVA     | $0,00   
+494  | 15-03-2026   | 18:00    | 2136599301 | MED-106      | Sinusitis severa          | ACTIVA     | $0,00   
+495  | 13-01-2026   | 08:00    | 2149527448 | MED-108      | Dolor ocular              | ACTIVA     | $0,00   
+496  | 14-04-2026   | 18:00    | 2137496309 | MED-098      | Dolor ocular              | ACTIVA     | $0,00   
+497  | 02-07-2026   | 10:00    | 0249834847 | MED-073      | Problemas de garganta     | NO ASISTIO | $25,00  
+498  | 24-06-2026   | 12:00    | 1245179039 | MED-029      | Vacunacion                | ACTIVA     | $0,00   
+499  | 21-07-2026   | 12:00    | 1437266826 | MED-061      | Fiebre y malestar         | ATENDIDA   | $0,00   
+500  | 07-04-2026   | 18:00    | 0239627599 | MED-162      | Problemas de tiroides     | ATENDIDA   | $0,00   
+501  | 03-09-2026   | 18:00    | 2201251317 | MED-081      | Fiebre y tos              | ATENDIDA   | $0,00   
+502  | 23-12-2026   | 08:00    | 1830901656 | MED-125      | Dolor de espalda          | ACTIVA     | $0,00   
+503  | 20-12-2026   | 14:00    | 1502573692 | MED-239      | Dolor abdominal           | ACTIVA     | $0,00   
+504  | 05-06-2026   | 12:00    | 0447476904 | MED-232      | Dolor general             | ATENDIDA   | $0,00   
+505  | 02-12-2026   | 14:00    | 2427719790 | MED-037      | Dolor de espalda          | ACTIVA     | $0,00   
+506  | 03-01-2026   | 16:00    | 1038620272 | MED-069      | Dolor abdominal           | ATENDIDA   | $0,00   
+507  | 06-11-2026   | 08:00    | 2154714741 | MED-017      | Problemas de tiroides     | ACTIVA     | $0,00   
+508  | 04-10-2026   | 14:00    | 0908183890 | MED-131      | Control de gastritis      | ATENDIDA   | $0,00   
+509  | 01-08-2026   | 16:00    | 2236235251 | MED-095      | Fiebre y malestar         | ACTIVA     | $0,00   
+510  | 27-07-2026   | 18:00    | 1431111226 | MED-094      | Dificultad al respirar    | NO ASISTIO | $25,00  
+511  | 23-05-2026   | 16:00    | 2111355364 | MED-132      | Dolor de espalda          | CANCELADA  | $0,00   
+512  | 25-01-2026   | 10:00    | 1642479115 | MED-219      | Revision de lunares       | ATENDIDA   | $0,00   
+513  | 11-03-2026   | 18:00    | 2005470626 | MED-236      | Dolor general             | ATENDIDA   | $0,00   
+514  | 05-04-2026   | 12:00    | 1038620272 | MED-173      | Problemas de garganta     | ACTIVA     | $0,00   
+515  | 20-04-2026   | 14:00    | 1138679558 | MED-239      | Dolor abdominal           | ACTIVA     | $0,00   
+516  | 10-10-2026   | 16:00    | 0705953156 | MED-132      | Posible fractura          | ACTIVA     | $0,00   
+517  | 19-03-2026   | 12:00    | 2447673217 | MED-163      | Fiebre y malestar         | ATENDIDA   | $0,00   
+518  | 08-03-2026   | 14:00    | 2315742102 | MED-087      | Dolor de espalda          | ACTIVA     | $0,00   
+519  | 11-07-2026   | 16:00    | 1757623077 | MED-124      | Dolor general             | ATENDIDA   | $0,00   
+520  | 24-05-2026   | 18:00    | 2431054333 | MED-245      | Sinusitis severa          | ACTIVA     | $0,00   
+521  | 03-11-2026   | 12:00    | 1040481986 | MED-137      | Dolor ocular              | CANCELADA  | $0,00   
+522  | 08-09-2026   | 10:00    | 0319276176 | MED-089      | Dolor de oido             | ATENDIDA   | $0,00   
+523  | 09-06-2026   | 08:00    | 1754144903 | MED-024      | Control de presion        | ACTIVA     | $0,00   
+524  | 20-03-2026   | 10:00    | 0208485870 | MED-242      | Dolor general             | ACTIVA     | $0,00   
+525  | 14-12-2026   | 18:00    | 0827211962 | MED-177      | Dificultad al respirar    | ACTIVA     | $0,00   
+526  | 21-05-2026   | 10:00    | 1245179039 | MED-026      | Control nino sano         | ACTIVA     | $0,00   
+527  | 11-10-2026   | 10:00    | 1656829908 | MED-219      | Revision de lunares       | ACTIVA     | $0,00   
+528  | 12-07-2026   | 16:00    | 0812787521 | MED-080      | Problemas de garganta     | ATENDIDA   | $0,00   
+529  | 08-01-2026   | 16:00    | 0608888699 | MED-056      | Dolor general             | ACTIVA     | $0,00   
+530  | 19-07-2026   | 14:00    | 2412977957 | MED-199      | Problemas de garganta     | ACTIVA     | $0,00   
+531  | 19-06-2026   | 12:00    | 0800872731 | MED-032      | Control nino sano         | ATENDIDA   | $0,00   
+532  | 10-01-2026   | 10:00    | 0327842472 | MED-206      | Dolor de oido             | ATENDIDA   | $0,00   
+533  | 01-06-2026   | 16:00    | 2232346425 | MED-127      | Control renal             | ACTIVA     | $0,00   
+534  | 26-03-2026   | 12:00    | 1929204400 | MED-218      | Dificultad al respirar    | ATENDIDA   | $0,00   
+535  | 11-10-2026   | 12:00    | 0319276176 | MED-023      | Migrana cronica           | ACTIVA     | $0,00   
+536  | 20-02-2026   | 18:00    | 1456383536 | MED-126      | Dolor general             | ACTIVA     | $0,00   
+537  | 02-07-2026   | 10:00    | 0557969664 | MED-212      | Problemas de garganta     | ATENDIDA   | $0,00   
+538  | 14-02-2026   | 16:00    | 0843530478 | MED-234      | Convulsiones              | ATENDIDA   | $0,00   
+539  | 18-07-2026   | 10:00    | 0334449311 | MED-062      | Control renal             | ATENDIDA   | $0,00   
+540  | 04-05-2026   | 14:00    | 2404652881 | MED-101      | Revision de lentes        | NO ASISTIO | $25,00  
+541  | 09-01-2026   | 10:00    | 1221258799 | MED-192      | Reflujo gastrico          | ATENDIDA   | $0,00   
+542  | 15-07-2026   | 18:00    | 0845313378 | MED-138      | Fiebre y malestar         | ACTIVA     | $0,00   
+543  | 03-12-2026   | 10:00    | 1453516732 | MED-023      | Convulsiones              | ATENDIDA   | $0,00   
+544  | 13-06-2026   | 14:00    | 2145880551 | MED-167      | Dolor de oido             | ATENDIDA   | $0,00   
+545  | 11-07-2026   | 14:00    | 0334536265 | MED-187      | Alergia en piel           | ACTIVA     | $0,00   
+546  | 02-03-2026   | 18:00    | 1121465817 | MED-093      | Chequeo de rutina         | ACTIVA     | $0,00   
+547  | 08-05-2026   | 18:00    | 0250022381 | MED-041      | Convulsiones              | ACTIVA     | $0,00   
+548  | 27-10-2026   | 16:00    | 0318720109 | MED-135      | Problemas de tiroides     | ATENDIDA   | $0,00   
+549  | 08-02-2026   | 12:00    | 2428323006 | MED-111      | Desorden hormonal         | ATENDIDA   | $0,00   
+550  | 05-08-2026   | 16:00    | 1050145307 | MED-056      | Fiebre y malestar         | ATENDIDA   | $0,00   
+551  | 28-10-2026   | 18:00    | 0921539862 | MED-056      | Dolor general             | ACTIVA     | $0,00   
+552  | 21-12-2026   | 10:00    | 0715922761 | MED-107      | Reflujo gastrico          | ACTIVA     | $0,00   
+553  | 05-08-2026   | 16:00    | 2418236572 | MED-147      | Migrana cronica           | ACTIVA     | $0,00   
+554  | 13-08-2026   | 10:00    | 1757623077 | MED-006      | Posible fractura          | ATENDIDA   | $0,00   
+555  | 07-04-2026   | 08:00    | 1835323468 | MED-016      | Posible fractura          | CANCELADA  | $0,00   
+556  | 05-12-2026   | 18:00    | 1030195786 | MED-172      | Dolor articular           | ACTIVA     | $0,00   
+557  | 28-07-2026   | 12:00    | 1907791261 | MED-026      | Control nino sano         | ACTIVA     | $0,00   
+558  | 23-03-2026   | 12:00    | 1852685492 | MED-180      | Sinusitis severa          | ATENDIDA   | $0,00   
+559  | 13-02-2026   | 16:00    | 0235043494 | MED-126      | Dolor general             | ATENDIDA   | $0,00   
+560  | 10-06-2026   | 18:00    | 0143522068 | MED-231      | Control de presion        | ACTIVA     | $0,00   
+561  | 27-03-2026   | 10:00    | 0918388968 | MED-212      | Problemas de garganta     | NO ASISTIO | $25,00  
+562  | 01-11-2026   | 18:00    | 2305162246 | MED-106      | Sinusitis severa          | ATENDIDA   | $0,00   
+563  | 10-09-2026   | 14:00    | 0812257657 | MED-150      | Control de diabetes       | ATENDIDA   | $0,00   
+564  | 04-11-2026   | 18:00    | 2310880923 | MED-171      | Dolor en el pecho         | ATENDIDA   | $0,00   
+565  | 28-02-2026   | 10:00    | 0745889105 | MED-213      | Fiebre y tos              | ATENDIDA   | $0,00   
+566  | 01-06-2026   | 18:00    | 0708136072 | MED-067      | Dificultad al respirar    | ATENDIDA   | $0,00   
+567  | 10-12-2026   | 10:00    | 1004903009 | MED-089      | Dolor de oido             | ACTIVA     | $0,00   
+568  | 12-02-2026   | 10:00    | 0852042951 | MED-173      | Dolor de oido             | ACTIVA     | $0,00   
+569  | 09-02-2026   | 12:00    | 0929724367 | MED-062      | Infeccion urinaria        | ACTIVA     | $0,00   
+570  | 17-12-2026   | 14:00    | 2342810575 | MED-140      | Control nino sano         | ACTIVA     | $0,00   
+571  | 13-03-2026   | 12:00    | 1907629321 | MED-238      | Migrana cronica           | ATENDIDA   | $0,00   
+572  | 08-12-2026   | 18:00    | 1604697795 | MED-208      | Migrana cronica           | ATENDIDA   | $0,00   
+573  | 20-07-2026   | 18:00    | 0438159980 | MED-047      | Dolor general             | CANCELADA  | $0,00   
+574  | 07-11-2026   | 16:00    | 2140912219 | MED-138      | Dolor general             | CANCELADA  | $0,00   
+575  | 11-06-2026   | 08:00    | 0619968530 | MED-164      | Convulsiones              | ATENDIDA   | $0,00   
+576  | 25-07-2026   | 12:00    | 1727824169 | MED-005      | Revision de lentes        | ACTIVA     | $0,00   
+577  | 23-07-2026   | 08:00    | 2350440570 | MED-015      | Dolor articular           | ACTIVA     | $0,00   
+578  | 02-09-2026   | 14:00    | 0327631362 | MED-222      | Fiebre y malestar         | NO ASISTIO | $25,00  
+579  | 05-06-2026   | 10:00    | 1826463083 | MED-210      | Chequeo de rutina         | ATENDIDA   | $0,00   
+580  | 03-02-2026   | 12:00    | 1429985078 | MED-048      | Control renal             | ACTIVA     | $0,00   
+581  | 13-04-2026   | 10:00    | 1404516393 | MED-070      | Mareos y vertigo          | ACTIVA     | $0,00   
+582  | 18-01-2026   | 14:00    | 1046634844 | MED-235      | Tos cronica               | ACTIVA     | $0,00   
+583  | 21-02-2026   | 08:00    | 0702146515 | MED-242      | Chequeo de rutina         | ACTIVA     | $0,00   
+584  | 19-06-2026   | 18:00    | 0422038034 | MED-094      | Dificultad al respirar    | ATENDIDA   | $0,00   
+585  | 02-09-2026   | 16:00    | 0929724367 | MED-056      | Dolor general             | ATENDIDA   | $0,00   
+586  | 27-04-2026   | 12:00    | 1923296287 | MED-118      | Alergia en piel           | CANCELADA  | $0,00   
+587  | 04-10-2026   | 14:00    | 1555543212 | MED-131      | Control de gastritis      | ACTIVA     | $0,00   
+588  | 11-05-2026   | 10:00    | 1306556992 | MED-230      | Chequeo de rutina         | ACTIVA     | $0,00   
+589  | 14-07-2026   | 18:00    | 0625146923 | MED-140      | Vacunacion                | ATENDIDA   | $0,00   
+590  | 25-01-2026   | 08:00    | 0805161106 | MED-030      | Crisis de Asma            | ACTIVA     | $0,00   
+591  | 03-11-2026   | 10:00    | 1814576425 | MED-023      | Migrana cronica           | ATENDIDA   | $0,00   
+592  | 21-06-2026   | 16:00    | 2247947183 | MED-011      | Reflujo gastrico          | ACTIVA     | $0,00   
+593  | 17-09-2026   | 14:00    | 0842842346 | MED-233      | Convulsiones              | NO ASISTIO | $25,00  
+594  | 24-12-2026   | 10:00    | 0335840237 | MED-192      | Reflujo gastrico          | ACTIVA     | $0,00   
+595  | 05-08-2026   | 18:00    | 0715922761 | MED-126      | Fiebre y malestar         | ACTIVA     | $0,00   
+596  | 03-01-2026   | 16:00    | 1104970817 | MED-250      | Dolor general             | ACTIVA     | $0,00   
+597  | 23-03-2026   | 14:00    | 1907629321 | MED-033      | Infeccion urinaria        | ATENDIDA   | $0,00   
+598  | 08-01-2026   | 18:00    | 0615054673 | MED-098      | Dolor ocular              | ACTIVA     | $0,00   
+599  | 01-01-2026   | 18:00    | 0327220356 | MED-131      | Control de gastritis      | ACTIVA     | $0,00   
+600  | 27-03-2026   | 08:00    | 1118882263 | MED-122      | Dolor de oido             | ACTIVA     | $0,00   
+601  | 08-09-2026   | 08:00    | 2305162246 | MED-014      | Acne severo               | ACTIVA     | $0,00   
+602  | 17-05-2026   | 14:00    | 0630126076 | MED-211      | Infeccion urinaria        | ACTIVA     | $0,00   
+603  | 17-03-2026   | 08:00    | 1636481598 | MED-027      | Vacunacion                | ACTIVA     | $0,00   
+604  | 19-11-2026   | 16:00    | 0822393062 | MED-220      | Sinusitis severa          | ACTIVA     | $0,00   
+605  | 04-12-2026   | 12:00    | 0406065888 | MED-139      | Crisis de Asma            | ATENDIDA   | $0,00   
+606  | 23-03-2026   | 08:00    | 0435977418 | MED-092      | Acne severo               | ACTIVA     | $0,00   
+607  | 23-05-2026   | 12:00    | 0454011909 | MED-053      | Control de diabetes       | ATENDIDA   | $0,00   
+608  | 09-01-2026   | 10:00    | 1158724318 | MED-213      | Fiebre y tos              | ATENDIDA   | $0,00   
+609  | 03-07-2026   | 12:00    | 1146382567 | MED-216      | Dolor abdominal           | ATENDIDA   | $0,00   
+610  | 02-08-2026   | 08:00    | 0623886124 | MED-038      | Perdida de vision         | ATENDIDA   | $0,00   
+611  | 01-11-2026   | 08:00    | 1648913323 | MED-246      | Alergia en piel           | ACTIVA     | $0,00   
+612  | 28-01-2026   | 18:00    | 2108490216 | MED-064      | Control nino sano         | ACTIVA     | $0,00   
+613  | 10-06-2026   | 16:00    | 0147185722 | MED-236      | Chequeo de rutina         | ATENDIDA   | $0,00   
+614  | 03-06-2026   | 08:00    | 0908183890 | MED-104      | Dificultad al respirar    | NO ASISTIO | $25,00  
+615  | 02-06-2026   | 08:00    | 1446391946 | MED-144      | Acne severo               | ATENDIDA   | $0,00   
+616  | 20-08-2026   | 10:00    | 0549945244 | MED-223      | Fiebre y malestar         | ATENDIDA   | $0,00   
+617  | 07-10-2026   | 08:00    | 1405927664 | MED-038      | Revision de lentes        | ACTIVA     | $0,00   
+618  | 24-12-2026   | 18:00    | 2106987528 | MED-153      | Sinusitis severa          | ATENDIDA   | $0,00   
+619  | 26-05-2026   | 16:00    | 0723003240 | MED-079      | Tos cronica               | ACTIVA     | $0,00   
+620  | 05-05-2026   | 12:00    | 0817447097 | MED-163      | Fiebre y malestar         | ATENDIDA   | $0,00   
+621  | 24-02-2026   | 10:00    | 0649576758 | MED-215      | Control de presion        | ACTIVA     | $0,00   
+622  | 03-03-2026   | 10:00    | 2203768417 | MED-074      | Dolor ocular              | ATENDIDA   | $0,00   
+623  | 13-08-2026   | 18:00    | 0817447097 | MED-140      | Fiebre y tos              | ACTIVA     | $0,00   
+624  | 11-09-2026   | 10:00    | 1754144903 | MED-133      | Problemas de garganta     | ACTIVA     | $0,00   
+625  | 27-02-2026   | 14:00    | 0409812914 | MED-082      | Alergia en piel           | ACTIVA     | $0,00   
+626  | 14-09-2026   | 16:00    | 2426097800 | MED-225      | Migrana cronica           | ACTIVA     | $0,00   
+627  | 07-07-2026   | 14:00    | 1726170473 | MED-207      | Control de diabetes       | NO ASISTIO | $25,00  
+628  | 02-11-2026   | 16:00    | 1349794071 | MED-208      | Mareos y vertigo          | ATENDIDA   | $0,00   
+629  | 26-07-2026   | 14:00    | 0342619723 | MED-067      | Tos cronica               | ACTIVA     | $0,00   
+630  | 03-08-2026   | 16:00    | 2159948682 | MED-041      | Migrana cronica           | ACTIVA     | $0,00   
+631  | 04-07-2026   | 16:00    | 1721629325 | MED-147      | Convulsiones              | ATENDIDA   | $0,00   
+632  | 26-03-2026   | 12:00    | 0425137080 | MED-149      | Infeccion urinaria        | ATENDIDA   | $0,00   
+633  | 03-08-2026   | 08:00    | 2034721080 | MED-031      | Fiebre y tos              | ACTIVA     | $0,00   
+634  | 24-03-2026   | 08:00    | 0339375008 | MED-214      | Posible fractura          | NO ASISTIO | $25,00  
+635  | 12-03-2026   | 18:00    | 1833553744 | MED-157      | Convulsiones              | ACTIVA     | $0,00   
+636  | 15-05-2026   | 12:00    | 2236235251 | MED-062      | Calculos renales          | ACTIVA     | $0,00   
+637  | 16-09-2026   | 16:00    | 2347289270 | MED-200      | Revision de lentes        | NO ASISTIO | $25,00  
+638  | 03-03-2026   | 12:00    | 0600784144 | MED-194      | Dolor en el pecho         | ACTIVA     | $0,00   
+639  | 16-12-2026   | 14:00    | 1050145307 | MED-153      | Dolor de oido             | ACTIVA     | $0,00   
+640  | 17-10-2026   | 16:00    | 1815973324 | MED-022      | Tos cronica               | ACTIVA     | $0,00   
+641  | 20-03-2026   | 14:00    | 1756832000 | MED-235      | Tos cronica               | ACTIVA     | $0,00   
+642  | 15-02-2026   | 14:00    | 0814140182 | MED-004      | Reflujo gastrico          | CANCELADA  | $0,00   
+643  | 02-12-2026   | 14:00    | 0929724367 | MED-109      | Dolor en el pecho         | ATENDIDA   | $0,00   
+644  | 13-09-2026   | 10:00    | 0450611215 | MED-183      | Acne severo               | ACTIVA     | $0,00   
+645  | 03-05-2026   | 18:00    | 0257863514 | MED-124      | Dolor general             | ACTIVA     | $0,00   
+646  | 20-04-2026   | 12:00    | 0755033974 | MED-125      | Dolor de espalda          | ACTIVA     | $0,00   
+647  | 23-01-2026   | 14:00    | 2143845077 | MED-010      | Calculos renales          | ACTIVA     | $0,00   
+648  | 09-06-2026   | 08:00    | 0935361485 | MED-170      | Revision de lentes        | ATENDIDA   | $0,00   
+649  | 04-11-2026   | 16:00    | 1448650786 | MED-110      | Control nino sano         | ACTIVA     | $0,00   
+650  | 17-03-2026   | 16:00    | 1458223383 | MED-093      | Fiebre y malestar         | ACTIVA     | $0,00   
+651  | 08-03-2026   | 16:00    | 1910526852 | MED-110      | Control nino sano         | ATENDIDA   | $0,00   
+652  | 06-02-2026   | 12:00    | 2101736805 | MED-149      | Control renal             | ATENDIDA   | $0,00   
+653  | 05-02-2026   | 10:00    | 1406491959 | MED-230      | Chequeo de rutina         | ATENDIDA   | $0,00   
+654  | 16-05-2026   | 10:00    | 1221227398 | MED-238      | Convulsiones              | ATENDIDA   | $0,00   
+655  | 27-12-2026   | 16:00    | 0639779339 | MED-190      | Acne severo               | ACTIVA     | $0,00   
+656  | 01-08-2026   | 16:00    | 0102941325 | MED-095      | Fiebre y malestar         | ATENDIDA   | $0,00   
+657  | 05-04-2026   | 14:00    | 1538639012 | MED-007      | Calculos renales          | CANCELADA  | $0,00   
+658  | 04-05-2026   | 16:00    | 2118664511 | MED-129      | Problemas de garganta     | ACTIVA     | $0,00   
+659  | 02-06-2026   | 08:00    | 0623143930 | MED-089      | Problemas de garganta     | ACTIVA     | $0,00   
+660  | 12-01-2026   | 10:00    | 0605622240 | MED-223      | Chequeo de rutina         | ATENDIDA   | $0,00   
+661  | 12-04-2026   | 12:00    | 1536058926 | MED-026      | Vacunacion                | NO ASISTIO | $25,00  
+662  | 18-12-2026   | 12:00    | 1441544994 | MED-108      | Dolor ocular              | ACTIVA     | $0,00   
+663  | 07-09-2026   | 18:00    | 1540871124 | MED-081      | Control nino sano         | ATENDIDA   | $0,00   
+664  | 09-11-2026   | 18:00    | 0110134467 | MED-002      | Dificultad al respirar    | ACTIVA     | $0,00   
+665  | 07-11-2026   | 14:00    | 0203471073 | MED-127      | Calculos renales          | ATENDIDA   | $0,00   
+666  | 16-04-2026   | 10:00    | 1944666971 | MED-076      | Control renal             | ACTIVA     | $0,00   
+667  | 12-03-2026   | 08:00    | 0842842346 | MED-074      | Perdida de vision         | CANCELADA  | $0,00   
+668  | 07-12-2026   | 08:00    | 0122709249 | MED-213      | Fiebre y tos              | ATENDIDA   | $0,00   
+669  | 16-03-2026   | 10:00    | 1647708757 | MED-173      | Sinusitis severa          | ACTIVA     | $0,00   
+670  | 15-03-2026   | 18:00    | 0857568224 | MED-174      | Arritmia cardiaca         | ACTIVA     | $0,00   
+671  | 28-06-2026   | 14:00    | 0108386178 | MED-156      | Problemas de tiroides     | ATENDIDA   | $0,00   
+672  | 13-03-2026   | 18:00    | 1038620272 | MED-142      | Migrana cronica           | ATENDIDA   | $0,00   
+673  | 28-03-2026   | 14:00    | 1826463083 | MED-035      | Desorden hormonal         | ACTIVA     | $0,00   
+674  | 23-05-2026   | 14:00    | 1751589902 | MED-083      | Control de gastritis      | ACTIVA     | $0,00   
+675  | 10-09-2026   | 18:00    | 1544615576 | MED-245      | Problemas de garganta     | NO ASISTIO | $25,00  
+676  | 05-05-2026   | 18:00    | 0551280043 | MED-098      | Revision de lentes        | ACTIVA     | $0,00   
+677  | 23-07-2026   | 18:00    | 2245896721 | MED-160      | Dolor ocular              | ATENDIDA   | $0,00   
+678  | 16-09-2026   | 08:00    | 0246547228 | MED-242      | Chequeo de rutina         | ATENDIDA   | $0,00   
+679  | 20-01-2026   | 08:00    | 1338128562 | MED-016      | Dolor de espalda          | ACTIVA     | $0,00   
+680  | 18-01-2026   | 14:00    | 2159948682 | MED-165      | Dificultad al respirar    | ACTIVA     | $0,00   
+681  | 18-08-2026   | 18:00    | 1607125513 | MED-199      | Problemas de garganta     | ACTIVA     | $0,00   
+682  | 11-11-2026   | 16:00    | 0612487371 | MED-148      | Dolor de espalda          | ATENDIDA   | $0,00   
+683  | 01-01-2026   | 14:00    | 2249534328 | MED-166      | Control de diabetes       | ATENDIDA   | $0,00   
+684  | 20-03-2026   | 08:00    | 1817101270 | MED-203      | Control nino sano         | ATENDIDA   | $0,00   
+685  | 27-05-2026   | 14:00    | 2042768693 | MED-147      | Migrana cronica           | ACTIVA     | $0,00   
+686  | 02-07-2026   | 14:00    | 0857532956 | MED-020      | Dolor ocular              | ATENDIDA   | $0,00   
+687  | 13-09-2026   | 14:00    | 0623886124 | MED-151      | Dolor de oido             | ACTIVA     | $0,00   
+688  | 15-11-2026   | 16:00    | 1747113114 | MED-109      | Control de presion        | ATENDIDA   | $0,00   
+689  | 12-02-2026   | 12:00    | 0848440970 | MED-203      | Control nino sano         | NO ASISTIO | $25,00  
+690  | 07-02-2026   | 14:00    | 0412675019 | MED-135      | Problemas de tiroides     | ATENDIDA   | $0,00   
+691  | 28-02-2026   | 10:00    | 0250117009 | MED-232      | Fiebre y malestar         | ATENDIDA   | $0,00   
+692  | 11-10-2026   | 10:00    | 1713599155 | MED-024      | Control de presion        | ATENDIDA   | $0,00   
+693  | 23-12-2026   | 16:00    | 0434605747 | MED-142      | Mareos y vertigo          | ACTIVA     | $0,00   
+694  | 08-03-2026   | 08:00    | 1509754774 | MED-029      | Fiebre y tos              | ACTIVA     | $0,00   
+695  | 02-10-2026   | 10:00    | 2219962913 | MED-163      | Dolor general             | ATENDIDA   | $0,00   
+696  | 28-07-2026   | 16:00    | 1148255894 | MED-143      | Chequeo de rutina         | ATENDIDA   | $0,00   
+697  | 14-02-2026   | 08:00    | 1429373408 | MED-229      | Chequeo de rutina         | ACTIVA     | $0,00   
+698  | 23-10-2026   | 12:00    | 1428460313 | MED-043      | Migrana cronica           | CANCELADA  | $0,00   
+699  | 11-07-2026   | 12:00    | 0230531899 | MED-006      | Dolor de espalda          | ACTIVA     | $0,00   
+700  | 26-11-2026   | 16:00    | 2427719790 | MED-155      | Dificultad al respirar    | ACTIVA     | $0,00   
+701  | 16-04-2026   | 14:00    | 2018922407 | MED-020      | Revision de lentes        | ATENDIDA   | $0,00   
+702  | 27-11-2026   | 16:00    | 0313079568 | MED-243      | Infeccion urinaria        | ATENDIDA   | $0,00   
+703  | 08-05-2026   | 08:00    | 1150589305 | MED-061      | Chequeo de rutina         | ACTIVA     | $0,00   
+704  | 02-01-2026   | 18:00    | 0615054673 | MED-036      | Fiebre y malestar         | ATENDIDA   | $0,00   
+705  | 16-07-2026   | 10:00    | 2114383561 | MED-112      | Dolor abdominal           | ACTIVA     | $0,00   
+706  | 04-11-2026   | 16:00    | 1923296287 | MED-003      | Control de presion        | ACTIVA     | $0,00   
+707  | 03-03-2026   | 14:00    | 1349794071 | MED-151      | Problemas de garganta     | ATENDIDA   | $0,00   
+708  | 02-01-2026   | 12:00    | 0304818867 | MED-038      | Perdida de vision         | ACTIVA     | $0,00   
+709  | 28-10-2026   | 10:00    | 1938263827 | MED-074      | Dolor ocular              | CANCELADA  | $0,00   
+710  | 05-10-2026   | 12:00    | 0230531899 | MED-221      | Revision de lentes        | ACTIVA     | $0,00   
+711  | 25-01-2026   | 18:00    | 0406065888 | MED-160      | Dolor ocular              | ACTIVA     | $0,00   
+712  | 23-11-2026   | 18:00    | 0217531391 | MED-189      | Chequeo de rutina         | CANCELADA  | $0,00   
+713  | 03-05-2026   | 08:00    | 0319276176 | MED-051      | Problemas de garganta     | ACTIVA     | $0,00   
+714  | 16-10-2026   | 10:00    | 0807941430 | MED-031      | Control nino sano         | ACTIVA     | $0,00   
+715  | 19-11-2026   | 08:00    | 1431228509 | MED-229      | Chequeo de rutina         | ATENDIDA   | $0,00   
+716  | 22-08-2026   | 16:00    | 1455182541 | MED-018      | Dolor en el pecho         | ACTIVA     | $0,00   
+717  | 17-08-2026   | 12:00    | 1311465114 | MED-196      | Mareos y vertigo          | ATENDIDA   | $0,00   
+718  | 12-05-2026   | 10:00    | 1755765615 | MED-114      | Problemas de garganta     | NO ASISTIO | $25,00  
+719  | 19-10-2026   | 16:00    | 1309320420 | MED-236      | Dolor general             | ATENDIDA   | $0,00   
+720  | 09-07-2026   | 12:00    | 1203235203 | MED-137      | Revision de lentes        | ACTIVA     | $0,00   
+721  | 02-12-2026   | 18:00    | 1104381742 | MED-148      | Dolor articular           | ACTIVA     | $0,00   
+722  | 05-06-2026   | 08:00    | 1158724318 | MED-206      | Sinusitis severa          | ATENDIDA   | $0,00   
+723  | 27-09-2026   | 08:00    | 1309320420 | MED-136      | Infeccion urinaria        | ATENDIDA   | $0,00   
+724  | 18-08-2026   | 16:00    | 1809189705 | MED-090      | Revision de lunares       | ATENDIDA   | $0,00   
+725  | 26-08-2026   | 08:00    | 1148255894 | MED-108      | Dolor ocular              | ATENDIDA   | $0,00   
+726  | 07-02-2026   | 12:00    | 0420064693 | MED-034      | Control de gastritis      | ACTIVA     | $0,00   
+727  | 21-08-2026   | 16:00    | 1047495500 | MED-124      | Fiebre y malestar         | ATENDIDA   | $0,00   
+728  | 03-12-2026   | 14:00    | 2057805489 | MED-035      | Problemas de tiroides     | ATENDIDA   | $0,00   
+729  | 09-01-2026   | 16:00    | 1012395610 | MED-067      | Tos cronica               | NO ASISTIO | $25,00  
+730  | 02-11-2026   | 16:00    | 0845313378 | MED-079      | Crisis de Asma            | ACTIVA     | $0,00   
+731  | 03-12-2026   | 08:00    | 1726170473 | MED-185      | Revision de lentes        | ATENDIDA   | $0,00   
+732  | 22-06-2026   | 16:00    | 0422038034 | MED-081      | Fiebre y tos              | CANCELADA  | $0,00   
+733  | 19-06-2026   | 18:00    | 2214298248 | MED-007      | Calculos renales          | ACTIVA     | $0,00   
+734  | 11-07-2026   | 08:00    | 2303567339 | MED-133      | Problemas de garganta     | ACTIVA     | $0,00   
+735  | 16-04-2026   | 12:00    | 0725549893 | MED-062      | Control renal             | ATENDIDA   | $0,00   
+736  | 14-06-2026   | 18:00    | 1438932673 | MED-166      | Problemas de tiroides     | ACTIVA     | $0,00   
+737  | 13-03-2026   | 14:00    | 1104381742 | MED-161      | Control renal             | ATENDIDA   | $0,00   
+738  | 16-02-2026   | 12:00    | 0519577290 | MED-246      | Alergia en piel           | ACTIVA     | $0,00   
+739  | 11-12-2026   | 10:00    | 0723003240 | MED-038      | Dolor ocular              | CANCELADA  | $0,00   
+740  | 14-08-2026   | 16:00    | 1809189705 | MED-217      | Fiebre y malestar         | ATENDIDA   | $0,00   
+741  | 21-08-2026   | 10:00    | 0918388968 | MED-113      | Dolor de espalda          | ACTIVA     | $0,00   
+742  | 18-03-2026   | 16:00    | 0257998930 | MED-237      | Dolor de oido             | ACTIVA     | $0,00   
+743  | 06-08-2026   | 16:00    | 1139396822 | MED-172      | Posible fractura          | NO ASISTIO | $25,00  
+744  | 16-01-2026   | 12:00    | 0721873818 | MED-184      | Control de diabetes       | ATENDIDA   | $0,00   
+745  | 28-06-2026   | 16:00    | 0343190542 | MED-129      | Problemas de garganta     | ACTIVA     | $0,00   
+746  | 02-06-2026   | 16:00    | 1038620272 | MED-205      | Control renal             | ATENDIDA   | $0,00   
+747  | 16-05-2026   | 16:00    | 0711196204 | MED-010      | Control renal             | ATENDIDA   | $0,00   
+748  | 23-09-2026   | 10:00    | 0739628246 | MED-076      | Control renal             | CANCELADA  | $0,00   
+749  | 27-12-2026   | 10:00    | 1747113114 | MED-070      | Mareos y vertigo          | ATENDIDA   | $0,00   
+750  | 22-03-2026   | 14:00    | 1923296287 | MED-018      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+751  | 13-02-2026   | 16:00    | 2101877955 | MED-157      | Migrana cronica           | NO ASISTIO | $25,00  
+752  | 23-02-2026   | 16:00    | 0644555229 | MED-142      | Mareos y vertigo          | ATENDIDA   | $0,00   
+753  | 08-06-2026   | 12:00    | 0624422507 | MED-055      | Mareos y vertigo          | ACTIVA     | $0,00   
+754  | 16-07-2026   | 08:00    | 1422332641 | MED-088      | Dolor articular           | ATENDIDA   | $0,00   
+755  | 09-08-2026   | 14:00    | 2203768417 | MED-243      | Infeccion urinaria        | ATENDIDA   | $0,00   
+756  | 28-06-2026   | 14:00    | 0809070444 | MED-135      | Control de diabetes       | ATENDIDA   | $0,00   
+757  | 13-05-2026   | 14:00    | 0313079568 | MED-172      | Posible fractura          | ACTIVA     | $0,00   
+758  | 18-09-2026   | 10:00    | 0625146923 | MED-066      | Dolor de espalda          | NO ASISTIO | $25,00  
+759  | 12-10-2026   | 18:00    | 1315188084 | MED-156      | Control de diabetes       | ATENDIDA   | $0,00   
+760  | 10-08-2026   | 18:00    | 0110158359 | MED-156      | Control de diabetes       | ATENDIDA   | $0,00   
+761  | 12-12-2026   | 08:00    | 2245675687 | MED-122      | Problemas de garganta     | ATENDIDA   | $0,00   
+762  | 14-05-2026   | 08:00    | 1730543012 | MED-144      | Acne severo               | ACTIVA     | $0,00   
+763  | 10-08-2026   | 10:00    | 0519577290 | MED-053      | Problemas de tiroides     | ACTIVA     | $0,00   
+764  | 06-04-2026   | 10:00    | 1817441999 | MED-238      | Migrana cronica           | ATENDIDA   | $0,00   
+765  | 19-11-2026   | 16:00    | 0807941430 | MED-041      | Migrana cronica           | ACTIVA     | $0,00   
+766  | 11-04-2026   | 16:00    | 1810918589 | MED-037      | Posible fractura          | NO ASISTIO | $25,00  
+767  | 08-02-2026   | 08:00    | 0605622240 | MED-139      | Dificultad al respirar    | ATENDIDA   | $0,00   
+768  | 06-03-2026   | 10:00    | 2203768417 | MED-030      | Tos cronica               | ACTIVA     | $0,00   
+769  | 13-11-2026   | 14:00    | 0147185722 | MED-162      | Control de diabetes       | ACTIVA     | $0,00   
+770  | 16-08-2026   | 18:00    | 2113954495 | MED-004      | Dolor abdominal           | NO ASISTIO | $25,00  
+771  | 28-01-2026   | 12:00    | 0330063744 | MED-120      | Migrana cronica           | ATENDIDA   | $0,00   
+772  | 27-12-2026   | 08:00    | 2404373801 | MED-114      | Dolor de oido             | ATENDIDA   | $0,00   
+773  | 06-02-2026   | 18:00    | 1726107244 | MED-205      | Control renal             | ACTIVA     | $0,00   
+774  | 11-12-2026   | 18:00    | 2113954495 | MED-022      | Tos cronica               | ATENDIDA   | $0,00   
+775  | 11-12-2026   | 18:00    | 1250441670 | MED-228      | Dificultad al respirar    | ATENDIDA   | $0,00   
+776  | 13-04-2026   | 18:00    | 2356001731 | MED-167      | Problemas de garganta     | ATENDIDA   | $0,00   
+777  | 06-03-2026   | 12:00    | 0719006652 | MED-145      | Dolor de oido             | ACTIVA     | $0,00   
+778  | 15-09-2026   | 14:00    | 0526232632 | MED-148      | Dolor de espalda          | ACTIVA     | $0,00   
+779  | 18-11-2026   | 18:00    | 0416898682 | MED-220      | Dolor de oido             | CANCELADA  | $0,00   
+780  | 01-05-2026   | 10:00    | 0557969664 | MED-088      | Dolor articular           | ATENDIDA   | $0,00   
+781  | 20-03-2026   | 18:00    | 0213943541 | MED-037      | Posible fractura          | ATENDIDA   | $0,00   
+782  | 24-01-2026   | 12:00    | 1409125307 | MED-194      | Dolor en el pecho         | ACTIVA     | $0,00   
+783  | 15-03-2026   | 10:00    | 2431735303 | MED-144      | Acne severo               | ATENDIDA   | $0,00   
+784  | 25-01-2026   | 14:00    | 1907791261 | MED-084      | Infeccion urinaria        | ACTIVA     | $0,00   
+785  | 06-12-2026   | 10:00    | 0409812914 | MED-137      | Perdida de vision         | ACTIVA     | $0,00   
+786  | 10-11-2026   | 18:00    | 0231361320 | MED-227      | Migrana cronica           | ACTIVA     | $0,00   
+787  | 08-07-2026   | 14:00    | 2307956850 | MED-035      | Desorden hormonal         | ACTIVA     | $0,00   
+788  | 19-04-2026   | 16:00    | 2342810575 | MED-138      | Fiebre y malestar         | ACTIVA     | $0,00   
+789  | 16-05-2026   | 16:00    | 0110575685 | MED-046      | Problemas de tiroides     | ACTIVA     | $0,00   
+790  | 17-04-2026   | 12:00    | 1431460797 | MED-107      | Reflujo gastrico          | ACTIVA     | $0,00   
+791  | 07-07-2026   | 12:00    | 2037122609 | MED-240      | Control de gastritis      | ACTIVA     | $0,00   
+792  | 18-08-2026   | 12:00    | 1927330405 | MED-219      | Revision de lunares       | ATENDIDA   | $0,00   
+793  | 12-07-2026   | 14:00    | 2233752555 | MED-086      | Reflujo gastrico          | ACTIVA     | $0,00   
+794  | 05-06-2026   | 16:00    | 1049666520 | MED-220      | Dolor de oido             | ACTIVA     | $0,00   
+795  | 18-08-2026   | 18:00    | 2304750009 | MED-110      | Fiebre y tos              | ATENDIDA   | $0,00   
+796  | 09-11-2026   | 14:00    | 2401195611 | MED-090      | Revision de lunares       | CANCELADA  | $0,00   
+797  | 11-08-2026   | 14:00    | 0908183890 | MED-140      | Vacunacion                | ACTIVA     | $0,00   
+798  | 18-08-2026   | 08:00    | 0427846142 | MED-203      | Vacunacion                | ATENDIDA   | $0,00   
+799  | 16-05-2026   | 16:00    | 0630126076 | MED-022      | Crisis de Asma            | ACTIVA     | $0,00   
+800  | 10-12-2026   | 12:00    | 1245179039 | MED-072      | Infeccion urinaria        | ACTIVA     | $0,00   
+801  | 21-10-2026   | 18:00    | 1858691148 | MED-096      | Convulsiones              | ATENDIDA   | $0,00   
+802  | 17-03-2026   | 08:00    | 1353715897 | MED-008      | Acne severo               | ACTIVA     | $0,00   
+803  | 20-06-2026   | 10:00    | 2356001731 | MED-125      | Dolor articular           | ACTIVA     | $0,00   
+804  | 08-12-2026   | 14:00    | 2140912219 | MED-190      | Acne severo               | ACTIVA     | $0,00   
+805  | 22-09-2026   | 18:00    | 0855152054 | MED-079      | Dificultad al respirar    | ACTIVA     | $0,00   
+806  | 08-05-2026   | 10:00    | 0247314453 | MED-055      | Mareos y vertigo          | ATENDIDA   | $0,00   
+807  | 16-12-2026   | 08:00    | 0148642705 | MED-076      | Infeccion urinaria        | ATENDIDA   | $0,00   
+808  | 07-10-2026   | 18:00    | 0351033246 | MED-046      | Problemas de tiroides     | ACTIVA     | $0,00   
+809  | 11-12-2026   | 14:00    | 2234033609 | MED-080      | Sinusitis severa          | ATENDIDA   | $0,00   
+810  | 04-01-2026   | 08:00    | 0229715842 | MED-092      | Revision de lunares       | ATENDIDA   | $0,00   
+811  | 07-10-2026   | 14:00    | 2304750009 | MED-109      | Control de presion        | ACTIVA     | $0,00   
+812  | 15-02-2026   | 12:00    | 0110158359 | MED-015      | Dolor de espalda          | ATENDIDA   | $0,00   
+813  | 14-03-2026   | 14:00    | 1808293615 | MED-022      | Crisis de Asma            | ACTIVA     | $0,00   
+814  | 14-11-2026   | 14:00    | 2009263258 | MED-086      | Dolor abdominal           | NO ASISTIO | $25,00  
+815  | 21-08-2026   | 16:00    | 2421189032 | MED-159      | Control renal             | ATENDIDA   | $0,00   
+816  | 28-05-2026   | 12:00    | 2000022844 | MED-212      | Sinusitis severa          | ATENDIDA   | $0,00   
+817  | 09-02-2026   | 18:00    | 1935044782 | MED-140      | Control nino sano         | ACTIVA     | $0,00   
+818  | 12-08-2026   | 16:00    | 1858078858 | MED-083      | Reflujo gastrico          | ACTIVA     | $0,00   
+819  | 06-06-2026   | 08:00    | 0753350545 | MED-240      | Control de gastritis      | ACTIVA     | $0,00   
+820  | 02-01-2026   | 16:00    | 2441715105 | MED-042      | Revision de lunares       | ATENDIDA   | $0,00   
+821  | 02-06-2026   | 16:00    | 0148642705 | MED-191      | Desorden hormonal         | ACTIVA     | $0,00   
+822  | 24-07-2026   | 08:00    | 1647708757 | MED-118      | Revision de lunares       | CANCELADA  | $0,00   
+823  | 26-05-2026   | 14:00    | 1536577586 | MED-106      | Sinusitis severa          | ATENDIDA   | $0,00   
+824  | 01-01-2026   | 18:00    | 0145750329 | MED-186      | Migrana cronica           | ACTIVA     | $0,00   
+825  | 19-06-2026   | 18:00    | 2111355364 | MED-208      | Mareos y vertigo          | ACTIVA     | $0,00   
+826  | 25-04-2026   | 12:00    | 2305162246 | MED-017      | Desorden hormonal         | ATENDIDA   | $0,00   
+827  | 01-12-2026   | 08:00    | 0203312459 | MED-066      | Dolor articular           | ACTIVA     | $0,00   
+828  | 09-02-2026   | 14:00    | 2346485051 | MED-098      | Perdida de vision         | ATENDIDA   | $0,00   
+829  | 27-02-2026   | 10:00    | 0720107341 | MED-015      | Posible fractura          | ACTIVA     | $0,00   
+830  | 02-04-2026   | 14:00    | 0631929270 | MED-093      | Fiebre y malestar         | ATENDIDA   | $0,00   
+831  | 24-12-2026   | 10:00    | 1601917295 | MED-173      | Problemas de garganta     | ATENDIDA   | $0,00   
+832  | 02-02-2026   | 12:00    | 0801504408 | MED-005      | Dolor ocular              | NO ASISTIO | $25,00  
+833  | 21-02-2026   | 10:00    | 0553210568 | MED-137      | Perdida de vision         | ATENDIDA   | $0,00   
+834  | 05-10-2026   | 08:00    | 0231787383 | MED-221      | Revision de lentes        | ATENDIDA   | $0,00   
+835  | 01-11-2026   | 12:00    | 0427846142 | MED-249      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+836  | 04-04-2026   | 14:00    | 1929253597 | MED-159      | Control renal             | ATENDIDA   | $0,00   
+837  | 27-11-2026   | 16:00    | 0219947884 | MED-233      | Mareos y vertigo          | ACTIVA     | $0,00   
+838  | 01-02-2026   | 10:00    | 0631929270 | MED-048      | Control renal             | ACTIVA     | $0,00   
+839  | 25-11-2026   | 10:00    | 0431423722 | MED-196      | Convulsiones              | ACTIVA     | $0,00   
+840  | 28-12-2026   | 14:00    | 0239627599 | MED-087      | Dolor articular           | ACTIVA     | $0,00   
+841  | 12-04-2026   | 16:00    | 1431806254 | MED-126      | Dolor general             | ATENDIDA   | $0,00   
+842  | 02-04-2026   | 12:00    | 0740001581 | MED-229      | Fiebre y malestar         | ACTIVA     | $0,00   
+843  | 25-12-2026   | 16:00    | 0306485665 | MED-119      | Crisis de Asma            | ATENDIDA   | $0,00   
+844  | 20-07-2026   | 10:00    | 0239627599 | MED-089      | Problemas de garganta     | ATENDIDA   | $0,00   
+845  | 08-10-2026   | 08:00    | 2057805489 | MED-005      | Perdida de vision         | ATENDIDA   | $0,00   
+846  | 04-09-2026   | 12:00    | 0319276176 | MED-192      | Dolor abdominal           | ACTIVA     | $0,00   
+847  | 07-12-2026   | 08:00    | 2325485858 | MED-164      | Convulsiones              | CANCELADA  | $0,00   
+848  | 14-12-2026   | 16:00    | 0413107855 | MED-220      | Problemas de garganta     | ATENDIDA   | $0,00   
+849  | 19-12-2026   | 14:00    | 0229715842 | MED-241      | Calculos renales          | ATENDIDA   | $0,00   
+850  | 07-08-2026   | 14:00    | 1422332641 | MED-156      | Desorden hormonal         | ACTIVA     | $0,00   
+851  | 09-01-2026   | 14:00    | 0250117009 | MED-054      | Dolor abdominal           | ATENDIDA   | $0,00   
+852  | 08-03-2026   | 18:00    | 1502038084 | MED-079      | Dificultad al respirar    | ACTIVA     | $0,00   
+853  | 21-10-2026   | 14:00    | 2106987528 | MED-071      | Control de presion        | ACTIVA     | $0,00   
+854  | 15-06-2026   | 14:00    | 1323335875 | MED-079      | Crisis de Asma            | ATENDIDA   | $0,00   
+855  | 01-11-2026   | 08:00    | 2111355364 | MED-216      | Reflujo gastrico          | ACTIVA     | $0,00   
+856  | 08-05-2026   | 16:00    | 2140711983 | MED-037      | Dolor de espalda          | ATENDIDA   | $0,00   
+857  | 26-12-2026   | 14:00    | 1309320420 | MED-201      | Alergia en piel           | ATENDIDA   | $0,00   
+858  | 04-10-2026   | 16:00    | 2323401949 | MED-248      | Acne severo               | NO ASISTIO | $25,00  
+859  | 01-04-2026   | 10:00    | 0247314453 | MED-117      | Tos cronica               | ACTIVA     | $0,00   
+860  | 24-09-2026   | 10:00    | 0623886124 | MED-223      | Chequeo de rutina         | ACTIVA     | $0,00   
+861  | 02-07-2026   | 18:00    | 0812257657 | MED-110      | Control nino sano         | ATENDIDA   | $0,00   
+862  | 10-12-2026   | 18:00    | 0542639034 | MED-151      | Sinusitis severa          | CANCELADA  | $0,00   
+863  | 08-06-2026   | 16:00    | 0539979740 | MED-036      | Dolor general             | ACTIVA     | $0,00   
+864  | 14-11-2026   | 10:00    | 0719006652 | MED-075      | Control de gastritis      | ATENDIDA   | $0,00   
+865  | 26-10-2026   | 14:00    | 1500314081 | MED-052      | Acne severo               | ATENDIDA   | $0,00   
+866  | 10-04-2026   | 10:00    | 1826463083 | MED-121      | Tos cronica               | NO ASISTIO | $25,00  
+867  | 09-04-2026   | 08:00    | 1257479335 | MED-238      | Migrana cronica           | NO ASISTIO | $25,00  
+868  | 13-12-2026   | 14:00    | 2225923404 | MED-018      | Dolor en el pecho         | ATENDIDA   | $0,00   
+869  | 16-02-2026   | 16:00    | 0135250850 | MED-093      | Chequeo de rutina         | ACTIVA     | $0,00   
+870  | 22-03-2026   | 18:00    | 0850800020 | MED-231      | Arritmia cardiaca         | ACTIVA     | $0,00   
+871  | 14-07-2026   | 12:00    | 1937721593 | MED-032      | Control nino sano         | ACTIVA     | $0,00   
+872  | 25-02-2026   | 18:00    | 0649576758 | MED-002      | Tos cronica               | ATENDIDA   | $0,00   
+873  | 21-05-2026   | 12:00    | 0409812914 | MED-032      | Fiebre y tos              | ATENDIDA   | $0,00   
+874  | 11-08-2026   | 12:00    | 0350023925 | MED-059      | Control de presion        | ACTIVA     | $0,00   
+875  | 10-06-2026   | 10:00    | 0219112729 | MED-214      | Posible fractura          | ACTIVA     | $0,00   
+876  | 14-04-2026   | 16:00    | 1113221665 | MED-021      | Mareos y vertigo          | CANCELADA  | $0,00   
+877  | 26-01-2026   | 08:00    | 0833211022 | MED-198      | Migrana cronica           | ATENDIDA   | $0,00   
+878  | 06-11-2026   | 16:00    | 0537974123 | MED-224      | Acne severo               | ACTIVA     | $0,00   
+879  | 21-09-2026   | 18:00    | 1942250604 | MED-157      | Migrana cronica           | ACTIVA     | $0,00   
+880  | 16-11-2026   | 08:00    | 1703260123 | MED-088      | Dolor articular           | NO ASISTIO | $25,00  
+881  | 21-02-2026   | 16:00    | 0120277595 | MED-207      | Control de diabetes       | ACTIVA     | $0,00   
+882  | 25-09-2026   | 14:00    | 1311465114 | MED-138      | Chequeo de rutina         | ATENDIDA   | $0,00   
+883  | 19-05-2026   | 10:00    | 0313079568 | MED-206      | Sinusitis severa          | ACTIVA     | $0,00   
+884  | 23-01-2026   | 14:00    | 2335013567 | MED-228      | Crisis de Asma            | ATENDIDA   | $0,00   
+885  | 20-06-2026   | 14:00    | 1538639012 | MED-165      | Tos cronica               | ACTIVA     | $0,00   
+886  | 14-09-2026   | 16:00    | 1841335100 | MED-220      | Dolor de oido             | ACTIVA     | $0,00   
+887  | 16-12-2026   | 12:00    | 1500314081 | MED-014      | Acne severo               | ACTIVA     | $0,00   
+888  | 07-09-2026   | 18:00    | 0623143930 | MED-235      | Dificultad al respirar    | ACTIVA     | $0,00   
+889  | 21-07-2026   | 18:00    | 0826015166 | MED-007      | Infeccion urinaria        | ATENDIDA   | $0,00   
+890  | 27-07-2026   | 12:00    | 2143395222 | MED-144      | Revision de lunares       | ACTIVA     | $0,00   
+891  | 20-08-2026   | 14:00    | 0134974229 | MED-010      | Control renal             | ACTIVA     | $0,00   
+892  | 16-12-2026   | 08:00    | 1429985078 | MED-215      | Dolor en el pecho         | ACTIVA     | $0,00   
+893  | 18-05-2026   | 16:00    | 0549842151 | MED-155      | Tos cronica               | ACTIVA     | $0,00   
+894  | 10-08-2026   | 10:00    | 0912076189 | MED-125      | Dolor articular           | ATENDIDA   | $0,00   
+895  | 28-09-2026   | 14:00    | 1938263827 | MED-109      | Control de presion        | CANCELADA  | $0,00   
+896  | 10-08-2026   | 14:00    | 0711196204 | MED-245      | Sinusitis severa          | ATENDIDA   | $0,00   
+897  | 02-06-2026   | 16:00    | 0854719044 | MED-054      | Control de gastritis      | NO ASISTIO | $25,00  
+898  | 18-07-2026   | 16:00    | 0843342858 | MED-190      | Revision de lunares       | CANCELADA  | $0,00   
+899  | 14-06-2026   | 18:00    | 2152268468 | MED-056      | Fiebre y malestar         | ACTIVA     | $0,00   
+900  | 18-03-2026   | 08:00    | 1308240728 | MED-192      | Dolor abdominal           | CANCELADA  | $0,00   
+901  | 01-08-2026   | 14:00    | 1221258799 | MED-174      | Control de presion        | CANCELADA  | $0,00   
+902  | 11-08-2026   | 08:00    | 0310335971 | MED-048      | Infeccion urinaria        | ACTIVA     | $0,00   
+903  | 23-03-2026   | 16:00    | 1121465817 | MED-046      | Desorden hormonal         | ATENDIDA   | $0,00   
+904  | 02-01-2026   | 18:00    | 2335013567 | MED-236      | Dolor general             | ATENDIDA   | $0,00   
+905  | 15-10-2026   | 14:00    | 2143395222 | MED-011      | Reflujo gastrico          | CANCELADA  | $0,00   
+906  | 17-03-2026   | 10:00    | 0356523340 | MED-006      | Posible fractura          | CANCELADA  | $0,00   
+907  | 12-04-2026   | 14:00    | 1434138655 | MED-140      | Control nino sano         | ATENDIDA   | $0,00   
+908  | 23-12-2026   | 10:00    | 2255283620 | MED-040      | Sinusitis severa          | ACTIVA     | $0,00   
+909  | 24-05-2026   | 18:00    | 1553676741 | MED-098      | Perdida de vision         | ATENDIDA   | $0,00   
+910  | 16-09-2026   | 16:00    | 0246826267 | MED-143      | Fiebre y malestar         | ATENDIDA   | $0,00   
+911  | 03-02-2026   | 14:00    | 0608888699 | MED-064      | Vacunacion                | ATENDIDA   | $0,00   
+912  | 18-06-2026   | 08:00    | 0249834847 | MED-029      | Vacunacion                | ATENDIDA   | $0,00   
+913  | 12-04-2026   | 08:00    | 0845313378 | MED-212      | Dolor de oido             | NO ASISTIO | $25,00  
+914  | 16-01-2026   | 14:00    | 1833518580 | MED-010      | Infeccion urinaria        | ATENDIDA   | $0,00   
+915  | 22-12-2026   | 18:00    | 1406491959 | MED-157      | Convulsiones              | ACTIVA     | $0,00   
+916  | 21-07-2026   | 18:00    | 0619912918 | MED-182      | Control renal             | NO ASISTIO | $25,00  
+917  | 03-07-2026   | 08:00    | 2431342084 | MED-203      | Control nino sano         | ACTIVA     | $0,00   
+918  | 05-12-2026   | 14:00    | 0235043494 | MED-217      | Fiebre y malestar         | ATENDIDA   | $0,00   
+919  | 03-06-2026   | 08:00    | 1809189705 | MED-016      | Posible fractura          | ATENDIDA   | $0,00   
+920  | 10-01-2026   | 10:00    | 0709290217 | MED-008      | Acne severo               | ATENDIDA   | $0,00   
+921  | 25-06-2026   | 10:00    | 0841936990 | MED-125      | Dolor articular           | ATENDIDA   | $0,00   
+922  | 27-09-2026   | 18:00    | 2000022844 | MED-165      | Crisis de Asma            | NO ASISTIO | $25,00  
+923  | 08-01-2026   | 10:00    | 0835166596 | MED-206      | Problemas de garganta     | ATENDIDA   | $0,00   
+924  | 12-02-2026   | 12:00    | 1406491959 | MED-249      | Arritmia cardiaca         | CANCELADA  | $0,00   
+925  | 02-02-2026   | 18:00    | 2152626756 | MED-129      | Problemas de garganta     | ATENDIDA   | $0,00   
+926  | 06-12-2026   | 18:00    | 0413107855 | MED-227      | Migrana cronica           | ATENDIDA   | $0,00   
+927  | 12-04-2026   | 08:00    | 0848440970 | MED-122      | Dolor de oido             | ATENDIDA   | $0,00   
+928  | 15-10-2026   | 08:00    | 0719006652 | MED-209      | Desorden hormonal         | ATENDIDA   | $0,00   
+929  | 18-02-2026   | 18:00    | 1049666520 | MED-085      | Dolor abdominal           | ACTIVA     | $0,00   
+930  | 22-09-2026   | 18:00    | 0454818683 | MED-102      | Control de diabetes       | ATENDIDA   | $0,00   
+931  | 23-07-2026   | 08:00    | 2404652881 | MED-230      | Chequeo de rutina         | ATENDIDA   | $0,00   
+932  | 04-12-2026   | 16:00    | 0135015469 | MED-239      | Dolor abdominal           | ACTIVA     | $0,00   
+933  | 22-07-2026   | 12:00    | 0511389058 | MED-061      | Chequeo de rutina         | ACTIVA     | $0,00   
+934  | 18-11-2026   | 14:00    | 0216132654 | MED-241      | Infeccion urinaria        | ACTIVA     | $0,00   
+935  | 14-09-2026   | 16:00    | 0450611215 | MED-129      | Sinusitis severa          | ACTIVA     | $0,00   
+936  | 12-04-2026   | 08:00    | 1315188084 | MED-078      | Acne severo               | ACTIVA     | $0,00   
+937  | 13-02-2026   | 16:00    | 0617289855 | MED-093      | Fiebre y malestar         | ACTIVA     | $0,00   
+938  | 02-06-2026   | 10:00    | 1259452975 | MED-163      | Fiebre y malestar         | ACTIVA     | $0,00   
+939  | 22-04-2026   | 16:00    | 0201336328 | MED-109      | Arritmia cardiaca         | ACTIVA     | $0,00   
+940  | 18-12-2026   | 18:00    | 0348450099 | MED-156      | Desorden hormonal         | ACTIVA     | $0,00   
+941  | 07-07-2026   | 14:00    | 2409853070 | MED-187      | Acne severo               | ACTIVA     | $0,00   
+942  | 20-04-2026   | 12:00    | 0508418829 | MED-012      | Problemas de tiroides     | ACTIVA     | $0,00   
+943  | 10-04-2026   | 10:00    | 1300049309 | MED-025      | Convulsiones              | ATENDIDA   | $0,00   
+944  | 10-03-2026   | 16:00    | 1755043336 | MED-200      | Dolor ocular              | ACTIVA     | $0,00   
+945  | 22-01-2026   | 16:00    | 1541537898 | MED-171      | Dolor en el pecho         | ATENDIDA   | $0,00   
+946  | 04-01-2026   | 10:00    | 1524942206 | MED-139      | Tos cronica               | ACTIVA     | $0,00   
+947  | 21-06-2026   | 10:00    | 0208485870 | MED-196      | Migrana cronica           | ATENDIDA   | $0,00   
+948  | 24-01-2026   | 16:00    | 0956122451 | MED-132      | Posible fractura          | ACTIVA     | $0,00   
+949  | 01-08-2026   | 12:00    | 2426097800 | MED-246      | Revision de lunares       | CANCELADA  | $0,00   
+950  | 02-06-2026   | 14:00    | 1642479115 | MED-233      | Migrana cronica           | ATENDIDA   | $0,00   
+951  | 05-05-2026   | 16:00    | 0348683293 | MED-239      | Dolor abdominal           | ACTIVA     | $0,00   
+952  | 20-06-2026   | 12:00    | 2355546264 | MED-015      | Dolor articular           | ACTIVA     | $0,00   
+953  | 04-09-2026   | 18:00    | 2032860450 | MED-037      | Dolor de espalda          | ATENDIDA   | $0,00   
+954  | 14-10-2026   | 08:00    | 2005037995 | MED-194      | Arritmia cardiaca         | ATENDIDA   | $0,00   
+955  | 05-01-2026   | 16:00    | 1909662056 | MED-235      | Dificultad al respirar    | ACTIVA     | $0,00   
+956  | 22-11-2026   | 10:00    | 1820217360 | MED-015      | Dolor de espalda          | ACTIVA     | $0,00   
+957  | 02-07-2026   | 10:00    | 1808293615 | MED-061      | Fiebre y malestar         | ATENDIDA   | $0,00   
+958  | 20-02-2026   | 08:00    | 0102941325 | MED-025      | Migrana cronica           | ACTIVA     | $0,00   
+959  | 21-10-2026   | 16:00    | 0341904233 | MED-171      | Control de presion        | ACTIVA     | $0,00   
+960  | 10-11-2026   | 16:00    | 0625146923 | MED-241      | Control renal             | ACTIVA     | $0,00   
+961  | 01-02-2026   | 18:00    | 0443741806 | MED-010      | Calculos renales          | ACTIVA     | $0,00   
+962  | 20-04-2026   | 14:00    | 0650939879 | MED-156      | Problemas de tiroides     | CANCELADA  | $0,00   
+963  | 13-09-2026   | 18:00    | 0852042951 | MED-140      | Vacunacion                | ACTIVA     | $0,00   
+964  | 16-11-2026   | 10:00    | 0701048506 | MED-194      | Control de presion        | NO ASISTIO | $25,00  
+965  | 16-10-2026   | 16:00    | 2310880923 | MED-143      | Dolor general             | ACTIVA     | $0,00   
+966  | 23-02-2026   | 08:00    | 0343190542 | MED-158      | Revision de lentes        | ATENDIDA   | $0,00   
+967  | 01-09-2026   | 18:00    | 1215055284 | MED-159      | Calculos renales          | ACTIVA     | $0,00   
+968  | 21-05-2026   | 12:00    | 1046634844 | MED-013      | Control nino sano         | ATENDIDA   | $0,00   
+969  | 23-04-2026   | 12:00    | 0203069893 | MED-219      | Acne severo               | ACTIVA     | $0,00   
+970  | 15-04-2026   | 08:00    | 0722892643 | MED-009      | Reflujo gastrico          | ACTIVA     | $0,00   
+971  | 09-11-2026   | 08:00    | 2418236572 | MED-137      | Dolor ocular              | ATENDIDA   | $0,00   
+972  | 27-11-2026   | 08:00    | 1656829908 | MED-247      | Arritmia cardiaca         | NO ASISTIO | $25,00  
+973  | 03-11-2026   | 14:00    | 1049699778 | MED-081      | Fiebre y tos              | ATENDIDA   | $0,00   
+974  | 25-01-2026   | 16:00    | 0631929270 | MED-058      | Tos cronica               | ACTIVA     | $0,00   
+975  | 01-10-2026   | 14:00    | 0515168946 | MED-140      | Control nino sano         | ACTIVA     | $0,00   
+976  | 03-01-2026   | 08:00    | 1315146710 | MED-066      | Posible fractura          | ATENDIDA   | $0,00   
+977  | 22-08-2026   | 08:00    | 1644775924 | MED-232      | Dolor general             | NO ASISTIO | $25,00  
+978  | 02-09-2026   | 18:00    | 1104381742 | MED-082      | Acne severo               | ATENDIDA   | $0,00   
+979  | 17-10-2026   | 14:00    | 0256730359 | MED-123      | Dolor general             | ACTIVA     | $0,00   
+980  | 02-05-2026   | 14:00    | 0623886124 | MED-083      | Dolor abdominal           | ACTIVA     | $0,00   
+981  | 05-05-2026   | 18:00    | 0942730235 | MED-082      | Revision de lunares       | ACTIVA     | $0,00   
+982  | 12-04-2026   | 14:00    | 0720154459 | MED-228      | Tos cronica               | ATENDIDA   | $0,00   
+983  | 14-03-2026   | 10:00    | 1654282142 | MED-183      | Acne severo               | ACTIVA     | $0,00   
+984  | 26-05-2026   | 10:00    | 2403743210 | MED-017      | Control de diabetes       | ACTIVA     | $0,00   
+985  | 08-12-2026   | 12:00    | 0812257657 | MED-198      | Mareos y vertigo          | ATENDIDA   | $0,00   
+986  | 13-11-2026   | 16:00    | 0629748260 | MED-071      | Arritmia cardiaca         | ACTIVA     | $0,00   
+987  | 02-10-2026   | 16:00    | 0952445146 | MED-109      | Dolor en el pecho         | ACTIVA     | $0,00   
+988  | 01-09-2026   | 18:00    | 1536058926 | MED-217      | Fiebre y malestar         | ACTIVA     | $0,00   
+989  | 14-04-2026   | 12:00    | 1551077157 | MED-181      | Control de diabetes       | ATENDIDA   | $0,00   
+990  | 28-05-2026   | 18:00    | 0231787383 | MED-244      | Fiebre y malestar         | ATENDIDA   | $0,00   
+991  | 03-04-2026   | 18:00    | 1833553744 | MED-189      | Chequeo de rutina         | CANCELADA  | $0,00   
+992  | 15-02-2026   | 16:00    | 0413819368 | MED-140      | Vacunacion                | ATENDIDA   | $0,00   
+993  | 15-02-2026   | 10:00    | 1701689497 | MED-183      | Revision de lunares       | ATENDIDA   | $0,00   
+994  | 15-09-2026   | 12:00    | 0651312324 | MED-114      | Sinusitis severa          | ATENDIDA   | $0,00   
+995  | 08-07-2026   | 16:00    | 1935044782 | MED-217      | Dolor general             | ATENDIDA   | $0,00   
+996  | 11-03-2026   | 18:00    | 1826463083 | MED-228      | Tos cronica               | ATENDIDA   | $0,00   
+997  | 25-11-2026   | 18:00    | 0907066385 | MED-085      | Reflujo gastrico          | ATENDIDA   | $0,00   
+998  | 18-10-2026   | 10:00    | 1014862641 | MED-242      | Fiebre y malestar         | ATENDIDA   | $0,00   
+999  | 17-12-2026   | 16:00    | 1938913827 | MED-143      | Fiebre y malestar         | ACTIVA     | $0,00   
+1000 | 22-09-2026   | 12:00    | 0616620910 | MED-016      | Posible fractura          | NO ASISTIO | $25,00  
+============================================================================
+
+Fin del reporte.
