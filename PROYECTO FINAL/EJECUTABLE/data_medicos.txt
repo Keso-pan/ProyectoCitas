@@ -1,0 +1,500 @@
+MED-001|Dr. Diego Martinez|29|Traumatologia|14:00-20:00|doc001
+MED-002|Dr. Sofia Lopez|35|Oftalmologia|08:00-14:00|doc002
+MED-003|Dr. Ricardo Garcia|37|Neurologia|14:00-20:00|doc003
+MED-004|Dr. Camila Mendoza|59|Traumatologia|08:00-14:00|doc004
+MED-005|Dr. Ricardo Herrera|57|Pediatria|08:00-14:00|doc005
+MED-006|Dr. Diego Morales|43|Endocrinologia|14:00-20:00|doc006
+MED-007|Dr. Diego Lopez|59|Otorrinolaringologia|14:00-20:00|doc007
+MED-008|Dr. Ricardo Lopez|53|Neumologia|14:00-20:00|doc008
+MED-009|Dr. Jorge Lopez|56|Cardiologia|14:00-20:00|doc009
+MED-010|Dr. Fernando Torres|53|Gastroenterologia|08:00-14:00|doc010
+MED-011|Dr. Jorge Castro|60|Oftalmologia|14:00-20:00|doc011
+MED-012|Dr. Fernando Castro|62|Pediatria|14:00-20:00|doc012
+MED-013|Dr. Carlos Mendoza|52|Nefrologia|14:00-20:00|doc013
+MED-014|Dr. Carmen Jimenez|62|Gastroenterologia|08:00-14:00|doc014
+MED-015|Dr. Javier Sanchez|28|Nefrologia|08:00-14:00|doc015
+MED-016|Dr. Carlos Herrera|44|Gastroenterologia|14:00-20:00|doc016
+MED-017|Dr. Luis Ramirez|62|Neurologia|08:00-14:00|doc017
+MED-018|Dr. Lucia Herrera|32|Neumologia|08:00-14:00|doc018
+MED-019|Dr. Valeria Herrera|62|Otorrinolaringologia|08:00-14:00|doc019
+MED-020|Dr. Valentina Jimenez|51|Neurologia|08:00-14:00|doc020
+MED-021|Dr. Luis Lopez|36|Otorrinolaringologia|08:00-14:00|doc021
+MED-022|Dr. Lucia Jimenez|64|Neurologia|08:00-14:00|doc022
+MED-023|Dr. Camila Ramirez|25|Nefrologia|14:00-20:00|doc023
+MED-024|Dr. Diego Zambrano|51|Dermatologia|14:00-20:00|doc024
+MED-025|Dr. Ricardo Garcia|53|Neurologia|14:00-20:00|doc025
+MED-026|Dr. Lucia Jimenez|59|Medicina General|08:00-14:00|doc026
+MED-027|Dr. Ricardo Martinez|34|Medicina General|14:00-20:00|doc027
+MED-028|Dr. Diana Garcia|25|Otorrinolaringologia|08:00-14:00|doc028
+MED-029|Dr. Andres Sanchez|43|Gastroenterologia|08:00-14:00|doc029
+MED-030|Dr. Jorge Morales|43|Otorrinolaringologia|14:00-20:00|doc030
+MED-031|Dr. Ana Mendoza|53|Neumologia|08:00-14:00|doc031
+MED-032|Dr. Carmen Rojas|27|Pediatria|14:00-20:00|doc032
+MED-033|Dr. Ana Velez|50|Medicina General|08:00-14:00|doc033
+MED-034|Dr. Valeria Velez|26|Gastroenterologia|14:00-20:00|doc034
+MED-035|Dr. Elena Sanchez|37|Dermatologia|14:00-20:00|doc035
+MED-036|Dr. Diana Lopez|64|Neumologia|14:00-20:00|doc036
+MED-037|Dr. Luis Morales|27|Dermatologia|08:00-14:00|doc037
+MED-038|Dr. Lucia Rojas|54|Nefrologia|14:00-20:00|doc038
+MED-039|Dr. Maria Rojas|43|Medicina General|08:00-14:00|doc039
+MED-040|Dr. Ana Ramirez|27|Pediatria|08:00-14:00|doc040
+MED-041|Dr. Mateo Martinez|51|Gastroenterologia|08:00-14:00|doc041
+MED-042|Dr. Lucia Rojas|55|Neumologia|08:00-14:00|doc042
+MED-043|Dr. Sofia Zambrano|49|Neumologia|08:00-14:00|doc043
+MED-044|Dr. Andres Mendoza|26|Neumologia|08:00-14:00|doc044
+MED-045|Dr. Diana Perez|63|Cardiologia|14:00-20:00|doc045
+MED-046|Dr. Jorge Garcia|47|Dermatologia|08:00-14:00|doc046
+MED-047|Dr. Sofia Herrera|52|Neurologia|08:00-14:00|doc047
+MED-048|Dr. Mateo Sanchez|51|Dermatologia|14:00-20:00|doc048
+MED-049|Dr. Elena Ortiz|64|Endocrinologia|08:00-14:00|doc049
+MED-050|Dr. Luis Garcia|36|Cardiologia|14:00-20:00|doc050
+MED-051|Dr. Maria Jimenez|33|Neumologia|14:00-20:00|doc051
+MED-052|Dr. Diana Morales|34|Otorrinolaringologia|14:00-20:00|doc052
+MED-053|Dr. Sofia Sanchez|61|Otorrinolaringologia|14:00-20:00|doc053
+MED-054|Dr. Maria Jimenez|46|Gastroenterologia|14:00-20:00|doc054
+MED-055|Dr. Carlos Jimenez|40|Traumatologia|08:00-14:00|doc055
+MED-056|Dr. Javier Ramirez|42|Nefrologia|08:00-14:00|doc056
+MED-057|Dr. Jorge Jimenez|47|Otorrinolaringologia|08:00-14:00|doc057
+MED-058|Dr. Javier Jimenez|25|Cardiologia|14:00-20:00|doc058
+MED-059|Dr. Carlos Sanchez|61|Neurologia|14:00-20:00|doc059
+MED-060|Dr. Sofia Morales|31|Neumologia|08:00-14:00|doc060
+MED-061|Dr. Ricardo Rojas|30|Medicina General|08:00-14:00|doc061
+MED-062|Dr. Valentina Garcia|55|Gastroenterologia|14:00-20:00|doc062
+MED-063|Dr. Carmen Perez|44|Cardiologia|08:00-14:00|doc063
+MED-064|Dr. Luis Ortiz|25|Otorrinolaringologia|08:00-14:00|doc064
+MED-065|Dr. Valeria Morales|33|Dermatologia|08:00-14:00|doc065
+MED-066|Dr. Ricardo Lopez|33|Oftalmologia|14:00-20:00|doc066
+MED-067|Dr. Roberto Velez|59|Medicina General|08:00-14:00|doc067
+MED-068|Dr. Maria Mendoza|51|Neumologia|14:00-20:00|doc068
+MED-069|Dr. Jorge Martinez|26|Pediatria|14:00-20:00|doc069
+MED-070|Dr. Carlos Ramirez|38|Pediatria|08:00-14:00|doc070
+MED-071|Dr. Sofia Perez|64|Neurologia|08:00-14:00|doc071
+MED-072|Dr. Ana Herrera|37|Medicina General|08:00-14:00|doc072
+MED-073|Dr. Valeria Zambrano|64|Nefrologia|14:00-20:00|doc073
+MED-074|Dr. Hugo Morales|37|Oftalmologia|08:00-14:00|doc074
+MED-075|Dr. Jorge Mendoza|31|Otorrinolaringologia|08:00-14:00|doc075
+MED-076|Dr. Maria Lopez|46|Oftalmologia|08:00-14:00|doc076
+MED-077|Dr. Valentina Morales|60|Oftalmologia|08:00-14:00|doc077
+MED-078|Dr. Ricardo Zambrano|61|Cardiologia|14:00-20:00|doc078
+MED-079|Dr. Elena Herrera|32|Gastroenterologia|08:00-14:00|doc079
+MED-080|Dr. Ricardo Perez|28|Dermatologia|08:00-14:00|doc080
+MED-081|Dr. Luis Mendoza|51|Endocrinologia|08:00-14:00|doc081
+MED-082|Dr. Jorge Morales|25|Gastroenterologia|14:00-20:00|doc082
+MED-083|Dr. Elena Garcia|58|Medicina General|14:00-20:00|doc083
+MED-084|Dr. Ana Jimenez|64|Endocrinologia|14:00-20:00|doc084
+MED-085|Dr. Elena Martinez|60|Neurologia|08:00-14:00|doc085
+MED-086|Dr. Hugo Herrera|51|Nefrologia|14:00-20:00|doc086
+MED-087|Dr. Diana Garcia|47|Medicina General|14:00-20:00|doc087
+MED-088|Dr. Luis Herrera|26|Cardiologia|14:00-20:00|doc088
+MED-089|Dr. Diego Morales|53|Medicina General|14:00-20:00|doc089
+MED-090|Dr. Andres Perez|29|Traumatologia|08:00-14:00|doc090
+MED-091|Dr. Sofia Sanchez|58|Traumatologia|14:00-20:00|doc091
+MED-092|Dr. Mateo Sanchez|44|Traumatologia|08:00-14:00|doc092
+MED-093|Dr. Andres Lopez|52|Medicina General|14:00-20:00|doc093
+MED-094|Dr. Isabel Velez|47|Medicina General|14:00-20:00|doc094
+MED-095|Dr. Camila Ramirez|48|Otorrinolaringologia|08:00-14:00|doc095
+MED-096|Dr. Carmen Lopez|37|Oftalmologia|14:00-20:00|doc096
+MED-097|Dr. Hugo Herrera|57|Neumologia|14:00-20:00|doc097
+MED-098|Dr. Camila Ortiz|41|Neurologia|08:00-14:00|doc098
+MED-099|Dr. Valeria Perez|35|Traumatologia|08:00-14:00|doc099
+MED-100|Dr. Ricardo Lopez|46|Gastroenterologia|08:00-14:00|doc100
+MED-101|Dr. Isabel Torres|51|Otorrinolaringologia|08:00-14:00|doc101
+MED-102|Dr. Valeria Velez|37|Medicina General|08:00-14:00|doc102
+MED-103|Dr. Ana Torres|49|Medicina General|08:00-14:00|doc103
+MED-104|Dr. Fernando Mendoza|60|Cardiologia|14:00-20:00|doc104
+MED-105|Dr. Maria Morales|64|Neurologia|08:00-14:00|doc105
+MED-106|Dr. Fernando Zambrano|51|Medicina General|14:00-20:00|doc106
+MED-107|Dr. Lucia Martinez|57|Traumatologia|14:00-20:00|doc107
+MED-108|Dr. Hugo Herrera|54|Neumologia|08:00-14:00|doc108
+MED-109|Dr. Elena Zambrano|61|Medicina General|14:00-20:00|doc109
+MED-110|Dr. Isabel Ramirez|61|Endocrinologia|08:00-14:00|doc110
+MED-111|Dr. Elena Perez|62|Otorrinolaringologia|14:00-20:00|doc111
+MED-112|Dr. Maria Martinez|41|Traumatologia|08:00-14:00|doc112
+MED-113|Dr. Ana Torres|32|Neurologia|14:00-20:00|doc113
+MED-114|Dr. Luis Ortiz|57|Nefrologia|14:00-20:00|doc114
+MED-115|Dr. Luis Zambrano|42|Neumologia|08:00-14:00|doc115
+MED-116|Dr. Diana Perez|52|Nefrologia|14:00-20:00|doc116
+MED-117|Dr. Javier Torres|38|Medicina General|14:00-20:00|doc117
+MED-118|Dr. Mateo Ramirez|47|Neumologia|14:00-20:00|doc118
+MED-119|Dr. Carmen Velez|53|Endocrinologia|08:00-14:00|doc119
+MED-120|Dr. Lucia Ramirez|60|Pediatria|14:00-20:00|doc120
+MED-121|Dr. Roberto Ramirez|38|Medicina General|14:00-20:00|doc121
+MED-122|Dr. Lucia Mendoza|30|Otorrinolaringologia|14:00-20:00|doc122
+MED-123|Dr. Ana Herrera|32|Dermatologia|14:00-20:00|doc123
+MED-124|Dr. Lucia Ramirez|38|Gastroenterologia|14:00-20:00|doc124
+MED-125|Dr. Mateo Velez|62|Gastroenterologia|08:00-14:00|doc125
+MED-126|Dr. Lucia Morales|35|Gastroenterologia|08:00-14:00|doc126
+MED-127|Dr. Luis Rojas|48|Neurologia|14:00-20:00|doc127
+MED-128|Dr. Diana Jimenez|38|Neurologia|08:00-14:00|doc128
+MED-129|Dr. Fernando Herrera|59|Endocrinologia|14:00-20:00|doc129
+MED-130|Dr. Diego Castro|27|Neumologia|14:00-20:00|doc130
+MED-131|Dr. Diana Rojas|44|Oftalmologia|08:00-14:00|doc131
+MED-132|Dr. Luis Jimenez|42|Medicina General|08:00-14:00|doc132
+MED-133|Dr. Valentina Jimenez|46|Pediatria|14:00-20:00|doc133
+MED-134|Dr. Javier Herrera|30|Cardiologia|08:00-14:00|doc134
+MED-135|Dr. Diego Velez|58|Pediatria|08:00-14:00|doc135
+MED-136|Dr. Carlos Herrera|42|Nefrologia|14:00-20:00|doc136
+MED-137|Dr. Valeria Perez|31|Traumatologia|08:00-14:00|doc137
+MED-138|Dr. Ricardo Herrera|61|Medicina General|14:00-20:00|doc138
+MED-139|Dr. Diego Castro|42|Endocrinologia|14:00-20:00|doc139
+MED-140|Dr. Camila Torres|43|Oftalmologia|14:00-20:00|doc140
+MED-141|Dr. Andres Torres|58|Cardiologia|08:00-14:00|doc141
+MED-142|Dr. Valentina Ortiz|63|Oftalmologia|14:00-20:00|doc142
+MED-143|Dr. Maria Sanchez|43|Otorrinolaringologia|08:00-14:00|doc143
+MED-144|Dr. Camila Mendoza|54|Neumologia|14:00-20:00|doc144
+MED-145|Dr. Valentina Sanchez|34|Neumologia|08:00-14:00|doc145
+MED-146|Dr. Valeria Zambrano|58|Otorrinolaringologia|08:00-14:00|doc146
+MED-147|Dr. Javier Perez|53|Medicina General|08:00-14:00|doc147
+MED-148|Dr. Ricardo Velez|42|Endocrinologia|08:00-14:00|doc148
+MED-149|Dr. Sofia Rojas|59|Otorrinolaringologia|14:00-20:00|doc149
+MED-150|Dr. Sofia Velez|53|Medicina General|14:00-20:00|doc150
+MED-151|Dr. Lucia Zambrano|47|Traumatologia|14:00-20:00|doc151
+MED-152|Dr. Jorge Zambrano|28|Nefrologia|08:00-14:00|doc152
+MED-153|Dr. Luis Velez|44|Pediatria|08:00-14:00|doc153
+MED-154|Dr. Javier Martinez|29|Nefrologia|14:00-20:00|doc154
+MED-155|Dr. Roberto Ortiz|41|Endocrinologia|14:00-20:00|doc155
+MED-156|Dr. Carmen Sanchez|64|Dermatologia|08:00-14:00|doc156
+MED-157|Dr. Isabel Torres|29|Endocrinologia|08:00-14:00|doc157
+MED-158|Dr. Roberto Rojas|52|Cardiologia|08:00-14:00|doc158
+MED-159|Dr. Carlos Martinez|34|Neumologia|08:00-14:00|doc159
+MED-160|Dr. Carmen Velez|25|Cardiologia|14:00-20:00|doc160
+MED-161|Dr. Hugo Velez|40|Dermatologia|14:00-20:00|doc161
+MED-162|Dr. Carlos Zambrano|35|Nefrologia|14:00-20:00|doc162
+MED-163|Dr. Elena Sanchez|42|Dermatologia|08:00-14:00|doc163
+MED-164|Dr. Fernando Martinez|49|Gastroenterologia|14:00-20:00|doc164
+MED-165|Dr. Hugo Ortiz|54|Neumologia|08:00-14:00|doc165
+MED-166|Dr. Lucia Morales|38|Gastroenterologia|14:00-20:00|doc166
+MED-167|Dr. Diana Sanchez|48|Nefrologia|08:00-14:00|doc167
+MED-168|Dr. Fernando Martinez|63|Traumatologia|14:00-20:00|doc168
+MED-169|Dr. Fernando Torres|32|Otorrinolaringologia|08:00-14:00|doc169
+MED-170|Dr. Elena Ramirez|30|Neumologia|14:00-20:00|doc170
+MED-171|Dr. Sofia Velez|45|Pediatria|08:00-14:00|doc171
+MED-172|Dr. Javier Herrera|38|Neurologia|14:00-20:00|doc172
+MED-173|Dr. Valeria Velez|48|Nefrologia|14:00-20:00|doc173
+MED-174|Dr. Luis Velez|47|Otorrinolaringologia|14:00-20:00|doc174
+MED-175|Dr. Maria Rojas|38|Pediatria|08:00-14:00|doc175
+MED-176|Dr. Luis Garcia|35|Oftalmologia|08:00-14:00|doc176
+MED-177|Dr. Diego Herrera|54|Medicina General|08:00-14:00|doc177
+MED-178|Dr. Mateo Ramirez|43|Endocrinologia|14:00-20:00|doc178
+MED-179|Dr. Mateo Ortiz|38|Endocrinologia|14:00-20:00|doc179
+MED-180|Dr. Mateo Morales|40|Medicina General|14:00-20:00|doc180
+MED-181|Dr. Valeria Lopez|54|Dermatologia|08:00-14:00|doc181
+MED-182|Dr. Camila Garcia|49|Dermatologia|14:00-20:00|doc182
+MED-183|Dr. Andres Perez|56|Endocrinologia|14:00-20:00|doc183
+MED-184|Dr. Sofia Herrera|59|Cardiologia|08:00-14:00|doc184
+MED-185|Dr. Valeria Garcia|43|Endocrinologia|14:00-20:00|doc185
+MED-186|Dr. Maria Jimenez|29|Gastroenterologia|08:00-14:00|doc186
+MED-187|Dr. Lucia Garcia|38|Neumologia|08:00-14:00|doc187
+MED-188|Dr. Carlos Perez|46|Endocrinologia|08:00-14:00|doc188
+MED-189|Dr. Lucia Perez|26|Gastroenterologia|08:00-14:00|doc189
+MED-190|Dr. Sofia Zambrano|64|Endocrinologia|14:00-20:00|doc190
+MED-191|Dr. Roberto Morales|29|Cardiologia|08:00-14:00|doc191
+MED-192|Dr. Camila Jimenez|28|Traumatologia|14:00-20:00|doc192
+MED-193|Dr. Lucia Lopez|64|Pediatria|14:00-20:00|doc193
+MED-194|Dr. Ricardo Garcia|55|Nefrologia|08:00-14:00|doc194
+MED-195|Dr. Fernando Mendoza|37|Traumatologia|14:00-20:00|doc195
+MED-196|Dr. Valentina Ortiz|44|Neurologia|08:00-14:00|doc196
+MED-197|Dr. Carlos Velez|45|Otorrinolaringologia|14:00-20:00|doc197
+MED-198|Dr. Andres Mendoza|58|Otorrinolaringologia|14:00-20:00|doc198
+MED-199|Dr. Mateo Garcia|32|Neurologia|14:00-20:00|doc199
+MED-200|Dr. Sofia Ortiz|41|Pediatria|08:00-14:00|doc200
+MED-201|Dr. Hugo Rojas|37|Gastroenterologia|14:00-20:00|doc201
+MED-202|Dr. Ana Morales|33|Neumologia|14:00-20:00|doc202
+MED-203|Dr. Hugo Torres|60|Traumatologia|14:00-20:00|doc203
+MED-204|Dr. Ana Ramirez|59|Traumatologia|08:00-14:00|doc204
+MED-205|Dr. Diego Velez|57|Traumatologia|08:00-14:00|doc205
+MED-206|Dr. Jorge Ramirez|35|Neurologia|14:00-20:00|doc206
+MED-207|Dr. Luis Garcia|27|Neumologia|14:00-20:00|doc207
+MED-208|Dr. Mateo Perez|53|Neurologia|08:00-14:00|doc208
+MED-209|Dr. Lucia Garcia|37|Gastroenterologia|14:00-20:00|doc209
+MED-210|Dr. Hugo Sanchez|39|Cardiologia|14:00-20:00|doc210
+MED-211|Dr. Isabel Perez|28|Neurologia|08:00-14:00|doc211
+MED-212|Dr. Lucia Sanchez|47|Pediatria|14:00-20:00|doc212
+MED-213|Dr. Andres Ramirez|42|Cardiologia|14:00-20:00|doc213
+MED-214|Dr. Carlos Ramirez|30|Endocrinologia|14:00-20:00|doc214
+MED-215|Dr. Valentina Ramirez|36|Medicina General|08:00-14:00|doc215
+MED-216|Dr. Camila Morales|33|Endocrinologia|08:00-14:00|doc216
+MED-217|Dr. Andres Garcia|50|Neumologia|08:00-14:00|doc217
+MED-218|Dr. Hugo Ortiz|58|Oftalmologia|14:00-20:00|doc218
+MED-219|Dr. Andres Ramirez|58|Endocrinologia|14:00-20:00|doc219
+MED-220|Dr. Camila Perez|38|Traumatologia|08:00-14:00|doc220
+MED-221|Dr. Mateo Torres|36|Otorrinolaringologia|14:00-20:00|doc221
+MED-222|Dr. Sofia Ortiz|53|Cardiologia|08:00-14:00|doc222
+MED-223|Dr. Luis Castro|27|Gastroenterologia|14:00-20:00|doc223
+MED-224|Dr. Lucia Velez|43|Pediatria|08:00-14:00|doc224
+MED-225|Dr. Maria Morales|47|Nefrologia|08:00-14:00|doc225
+MED-226|Dr. Luis Ortiz|40|Medicina General|14:00-20:00|doc226
+MED-227|Dr. Ana Morales|51|Cardiologia|08:00-14:00|doc227
+MED-228|Dr. Carlos Torres|29|Dermatologia|14:00-20:00|doc228
+MED-229|Dr. Hugo Torres|49|Neumologia|08:00-14:00|doc229
+MED-230|Dr. Elena Zambrano|41|Neurologia|08:00-14:00|doc230
+MED-231|Dr. Maria Rojas|60|Medicina General|14:00-20:00|doc231
+MED-232|Dr. Maria Ramirez|49|Neurologia|14:00-20:00|doc232
+MED-233|Dr. Hugo Rojas|30|Medicina General|08:00-14:00|doc233
+MED-234|Dr. Ana Ramirez|50|Nefrologia|08:00-14:00|doc234
+MED-235|Dr. Diana Herrera|27|Gastroenterologia|08:00-14:00|doc235
+MED-236|Dr. Ricardo Ortiz|29|Oftalmologia|14:00-20:00|doc236
+MED-237|Dr. Lucia Castro|27|Endocrinologia|08:00-14:00|doc237
+MED-238|Dr. Ricardo Ramirez|36|Traumatologia|14:00-20:00|doc238
+MED-239|Dr. Luis Torres|61|Neumologia|08:00-14:00|doc239
+MED-240|Dr. Andres Mendoza|35|Oftalmologia|08:00-14:00|doc240
+MED-241|Dr. Valeria Martinez|52|Cardiologia|08:00-14:00|doc241
+MED-242|Dr. Carmen Jimenez|51|Gastroenterologia|14:00-20:00|doc242
+MED-243|Dr. Diana Perez|54|Gastroenterologia|14:00-20:00|doc243
+MED-244|Dr. Maria Herrera|52|Otorrinolaringologia|08:00-14:00|doc244
+MED-245|Dr. Valeria Martinez|28|Medicina General|08:00-14:00|doc245
+MED-246|Dr. Valentina Zambrano|63|Medicina General|14:00-20:00|doc246
+MED-247|Dr. Carlos Torres|57|Pediatria|08:00-14:00|doc247
+MED-248|Dr. Diana Rojas|56|Nefrologia|08:00-14:00|doc248
+MED-249|Dr. Jorge Velez|61|Medicina General|08:00-14:00|doc249
+MED-250|Dr. Roberto Zambrano|55|Cardiologia|14:00-20:00|doc250
+MED-251|Dr. Diana Zambrano|41|Medicina General|14:00-20:00|doc251
+MED-252|Dr. Elena Ortiz|32|Gastroenterologia|08:00-14:00|doc252
+MED-253|Dr. Ana Rojas|32|Dermatologia|14:00-20:00|doc253
+MED-254|Dr. Andres Morales|34|Traumatologia|14:00-20:00|doc254
+MED-255|Dr. Mateo Mendoza|45|Medicina General|08:00-14:00|doc255
+MED-256|Dr. Roberto Perez|26|Nefrologia|14:00-20:00|doc256
+MED-257|Dr. Diana Perez|38|Medicina General|08:00-14:00|doc257
+MED-258|Dr. Isabel Torres|35|Oftalmologia|14:00-20:00|doc258
+MED-259|Dr. Fernando Garcia|57|Otorrinolaringologia|08:00-14:00|doc259
+MED-260|Dr. Elena Sanchez|56|Medicina General|08:00-14:00|doc260
+MED-261|Dr. Valentina Martinez|29|Medicina General|08:00-14:00|doc261
+MED-262|Dr. Andres Garcia|41|Dermatologia|08:00-14:00|doc262
+MED-263|Dr. Sofia Herrera|55|Endocrinologia|14:00-20:00|doc263
+MED-264|Dr. Luis Rojas|26|Oftalmologia|08:00-14:00|doc264
+MED-265|Dr. Camila Jimenez|30|Oftalmologia|14:00-20:00|doc265
+MED-266|Dr. Roberto Mendoza|32|Pediatria|14:00-20:00|doc266
+MED-267|Dr. Camila Morales|32|Traumatologia|08:00-14:00|doc267
+MED-268|Dr. Diana Mendoza|61|Neurologia|14:00-20:00|doc268
+MED-269|Dr. Valeria Torres|46|Nefrologia|14:00-20:00|doc269
+MED-270|Dr. Diego Garcia|34|Pediatria|08:00-14:00|doc270
+MED-271|Dr. Luis Zambrano|28|Neumologia|14:00-20:00|doc271
+MED-272|Dr. Diana Morales|42|Oftalmologia|14:00-20:00|doc272
+MED-273|Dr. Isabel Garcia|47|Pediatria|14:00-20:00|doc273
+MED-274|Dr. Hugo Garcia|58|Oftalmologia|08:00-14:00|doc274
+MED-275|Dr. Ana Lopez|29|Traumatologia|14:00-20:00|doc275
+MED-276|Dr. Carlos Velez|39|Pediatria|14:00-20:00|doc276
+MED-277|Dr. Fernando Lopez|57|Oftalmologia|14:00-20:00|doc277
+MED-278|Dr. Isabel Rojas|63|Cardiologia|14:00-20:00|doc278
+MED-279|Dr. Camila Castro|61|Neurologia|08:00-14:00|doc279
+MED-280|Dr. Hugo Martinez|52|Cardiologia|14:00-20:00|doc280
+MED-281|Dr. Andres Mendoza|28|Dermatologia|14:00-20:00|doc281
+MED-282|Dr. Carmen Torres|53|Nefrologia|08:00-14:00|doc282
+MED-283|Dr. Ricardo Rojas|56|Neurologia|14:00-20:00|doc283
+MED-284|Dr. Carlos Morales|31|Otorrinolaringologia|14:00-20:00|doc284
+MED-285|Dr. Jorge Garcia|33|Cardiologia|14:00-20:00|doc285
+MED-286|Dr. Lucia Lopez|36|Cardiologia|14:00-20:00|doc286
+MED-287|Dr. Diana Castro|37|Medicina General|08:00-14:00|doc287
+MED-288|Dr. Camila Perez|52|Medicina General|08:00-14:00|doc288
+MED-289|Dr. Valeria Ramirez|43|Gastroenterologia|14:00-20:00|doc289
+MED-290|Dr. Diego Zambrano|30|Dermatologia|08:00-14:00|doc290
+MED-291|Dr. Sofia Garcia|53|Gastroenterologia|14:00-20:00|doc291
+MED-292|Dr. Elena Rojas|47|Cardiologia|08:00-14:00|doc292
+MED-293|Dr. Carmen Mendoza|37|Traumatologia|08:00-14:00|doc293
+MED-294|Dr. Sofia Jimenez|45|Cardiologia|14:00-20:00|doc294
+MED-295|Dr. Ana Jimenez|28|Cardiologia|08:00-14:00|doc295
+MED-296|Dr. Diana Perez|28|Pediatria|14:00-20:00|doc296
+MED-297|Dr. Carlos Jimenez|32|Otorrinolaringologia|14:00-20:00|doc297
+MED-298|Dr. Ana Morales|64|Otorrinolaringologia|08:00-14:00|doc298
+MED-299|Dr. Maria Velez|51|Pediatria|08:00-14:00|doc299
+MED-300|Dr. Valentina Rojas|29|Neumologia|08:00-14:00|doc300
+MED-301|Dr. Roberto Lopez|31|Traumatologia|08:00-14:00|doc301
+MED-302|Dr. Isabel Velez|44|Cardiologia|14:00-20:00|doc302
+MED-303|Dr. Javier Sanchez|40|Otorrinolaringologia|14:00-20:00|doc303
+MED-304|Dr. Carmen Castro|48|Dermatologia|14:00-20:00|doc304
+MED-305|Dr. Lucia Perez|34|Neurologia|08:00-14:00|doc305
+MED-306|Dr. Jorge Ortiz|25|Neumologia|14:00-20:00|doc306
+MED-307|Dr. Luis Sanchez|29|Otorrinolaringologia|08:00-14:00|doc307
+MED-308|Dr. Fernando Zambrano|48|Oftalmologia|08:00-14:00|doc308
+MED-309|Dr. Jorge Ramirez|29|Pediatria|14:00-20:00|doc309
+MED-310|Dr. Carmen Zambrano|43|Otorrinolaringologia|14:00-20:00|doc310
+MED-311|Dr. Diana Rojas|38|Otorrinolaringologia|14:00-20:00|doc311
+MED-312|Dr. Carmen Castro|27|Oftalmologia|08:00-14:00|doc312
+MED-313|Dr. Isabel Herrera|47|Cardiologia|14:00-20:00|doc313
+MED-314|Dr. Fernando Lopez|44|Endocrinologia|08:00-14:00|doc314
+MED-315|Dr. Carmen Velez|37|Gastroenterologia|08:00-14:00|doc315
+MED-316|Dr. Lucia Ortiz|27|Otorrinolaringologia|14:00-20:00|doc316
+MED-317|Dr. Carlos Morales|25|Medicina General|14:00-20:00|doc317
+MED-318|Dr. Diego Rojas|52|Gastroenterologia|08:00-14:00|doc318
+MED-319|Dr. Hugo Velez|42|Cardiologia|08:00-14:00|doc319
+MED-320|Dr. Hugo Sanchez|38|Gastroenterologia|14:00-20:00|doc320
+MED-321|Dr. Valeria Jimenez|26|Nefrologia|14:00-20:00|doc321
+MED-322|Dr. Andres Garcia|59|Endocrinologia|08:00-14:00|doc322
+MED-323|Dr. Valeria Castro|45|Neumologia|14:00-20:00|doc323
+MED-324|Dr. Ana Torres|45|Traumatologia|08:00-14:00|doc324
+MED-325|Dr. Ricardo Morales|58|Neurologia|14:00-20:00|doc325
+MED-326|Dr. Camila Castro|50|Traumatologia|08:00-14:00|doc326
+MED-327|Dr. Maria Sanchez|49|Pediatria|14:00-20:00|doc327
+MED-328|Dr. Andres Ramirez|38|Endocrinologia|14:00-20:00|doc328
+MED-329|Dr. Isabel Lopez|53|Traumatologia|14:00-20:00|doc329
+MED-330|Dr. Ricardo Ramirez|48|Oftalmologia|08:00-14:00|doc330
+MED-331|Dr. Carlos Mendoza|27|Traumatologia|08:00-14:00|doc331
+MED-332|Dr. Mateo Herrera|59|Neurologia|14:00-20:00|doc332
+MED-333|Dr. Jorge Herrera|33|Endocrinologia|14:00-20:00|doc333
+MED-334|Dr. Camila Jimenez|40|Pediatria|14:00-20:00|doc334
+MED-335|Dr. Diego Torres|58|Dermatologia|14:00-20:00|doc335
+MED-336|Dr. Camila Morales|50|Traumatologia|08:00-14:00|doc336
+MED-337|Dr. Isabel Zambrano|57|Neumologia|14:00-20:00|doc337
+MED-338|Dr. Sofia Garcia|59|Oftalmologia|08:00-14:00|doc338
+MED-339|Dr. Diego Torres|53|Gastroenterologia|14:00-20:00|doc339
+MED-340|Dr. Javier Rojas|46|Cardiologia|08:00-14:00|doc340
+MED-341|Dr. Carlos Mendoza|32|Medicina General|08:00-14:00|doc341
+MED-342|Dr. Camila Zambrano|42|Dermatologia|14:00-20:00|doc342
+MED-343|Dr. Diana Martinez|49|Nefrologia|14:00-20:00|doc343
+MED-344|Dr. Mateo Ortiz|37|Neumologia|08:00-14:00|doc344
+MED-345|Dr. Carlos Mendoza|32|Medicina General|08:00-14:00|doc345
+MED-346|Dr. Jorge Mendoza|59|Neurologia|08:00-14:00|doc346
+MED-347|Dr. Mateo Velez|35|Endocrinologia|08:00-14:00|doc347
+MED-348|Dr. Carlos Jimenez|63|Oftalmologia|08:00-14:00|doc348
+MED-349|Dr. Carmen Velez|49|Neurologia|14:00-20:00|doc349
+MED-350|Dr. Fernando Ortiz|28|Oftalmologia|08:00-14:00|doc350
+MED-351|Dr. Javier Rojas|34|Dermatologia|08:00-14:00|doc351
+MED-352|Dr. Fernando Morales|47|Medicina General|08:00-14:00|doc352
+MED-353|Dr. Isabel Mendoza|45|Neurologia|14:00-20:00|doc353
+MED-354|Dr. Roberto Castro|30|Endocrinologia|08:00-14:00|doc354
+MED-355|Dr. Ana Lopez|59|Cardiologia|14:00-20:00|doc355
+MED-356|Dr. Camila Perez|26|Oftalmologia|14:00-20:00|doc356
+MED-357|Dr. Valentina Zambrano|62|Nefrologia|14:00-20:00|doc357
+MED-358|Dr. Sofia Rojas|47|Oftalmologia|08:00-14:00|doc358
+MED-359|Dr. Luis Sanchez|45|Neurologia|08:00-14:00|doc359
+MED-360|Dr. Sofia Martinez|51|Oftalmologia|14:00-20:00|doc360
+MED-361|Dr. Roberto Garcia|59|Pediatria|14:00-20:00|doc361
+MED-362|Dr. Maria Mendoza|50|Neurologia|08:00-14:00|doc362
+MED-363|Dr. Camila Herrera|26|Oftalmologia|14:00-20:00|doc363
+MED-364|Dr. Mateo Ramirez|38|Endocrinologia|08:00-14:00|doc364
+MED-365|Dr. Ricardo Lopez|53|Medicina General|08:00-14:00|doc365
+MED-366|Dr. Camila Torres|43|Medicina General|08:00-14:00|doc366
+MED-367|Dr. Carmen Jimenez|38|Nefrologia|08:00-14:00|doc367
+MED-368|Dr. Ricardo Martinez|60|Cardiologia|08:00-14:00|doc368
+MED-369|Dr. Fernando Zambrano|34|Neumologia|08:00-14:00|doc369
+MED-370|Dr. Ricardo Sanchez|58|Traumatologia|14:00-20:00|doc370
+MED-371|Dr. Ana Rojas|29|Medicina General|14:00-20:00|doc371
+MED-372|Dr. Camila Velez|59|Dermatologia|14:00-20:00|doc372
+MED-373|Dr. Mateo Lopez|63|Oftalmologia|14:00-20:00|doc373
+MED-374|Dr. Luis Velez|63|Dermatologia|08:00-14:00|doc374
+MED-375|Dr. Carlos Torres|62|Neumologia|08:00-14:00|doc375
+MED-376|Dr. Sofia Zambrano|51|Gastroenterologia|08:00-14:00|doc376
+MED-377|Dr. Valeria Sanchez|28|Medicina General|08:00-14:00|doc377
+MED-378|Dr. Jorge Sanchez|56|Otorrinolaringologia|08:00-14:00|doc378
+MED-379|Dr. Diego Zambrano|46|Cardiologia|14:00-20:00|doc379
+MED-380|Dr. Carlos Garcia|49|Pediatria|14:00-20:00|doc380
+MED-381|Dr. Mateo Martinez|25|Cardiologia|08:00-14:00|doc381
+MED-382|Dr. Valeria Castro|56|Neumologia|08:00-14:00|doc382
+MED-383|Dr. Mateo Zambrano|56|Otorrinolaringologia|08:00-14:00|doc383
+MED-384|Dr. Camila Garcia|59|Dermatologia|14:00-20:00|doc384
+MED-385|Dr. Diego Sanchez|37|Pediatria|14:00-20:00|doc385
+MED-386|Dr. Andres Ortiz|55|Medicina General|14:00-20:00|doc386
+MED-387|Dr. Valeria Rojas|55|Pediatria|14:00-20:00|doc387
+MED-388|Dr. Isabel Velez|58|Traumatologia|08:00-14:00|doc388
+MED-389|Dr. Fernando Velez|35|Dermatologia|08:00-14:00|doc389
+MED-390|Dr. Diego Zambrano|37|Cardiologia|08:00-14:00|doc390
+MED-391|Dr. Sofia Jimenez|39|Cardiologia|08:00-14:00|doc391
+MED-392|Dr. Diego Ortiz|26|Medicina General|08:00-14:00|doc392
+MED-393|Dr. Jorge Lopez|57|Medicina General|14:00-20:00|doc393
+MED-394|Dr. Elena Velez|60|Otorrinolaringologia|14:00-20:00|doc394
+MED-395|Dr. Valeria Jimenez|29|Dermatologia|14:00-20:00|doc395
+MED-396|Dr. Carmen Ortiz|27|Traumatologia|14:00-20:00|doc396
+MED-397|Dr. Carlos Castro|56|Dermatologia|14:00-20:00|doc397
+MED-398|Dr. Roberto Ortiz|41|Dermatologia|14:00-20:00|doc398
+MED-399|Dr. Valentina Ramirez|57|Neurologia|14:00-20:00|doc399
+MED-400|Dr. Roberto Rojas|63|Dermatologia|14:00-20:00|doc400
+MED-401|Dr. Jorge Sanchez|46|Nefrologia|14:00-20:00|doc401
+MED-402|Dr. Elena Herrera|57|Oftalmologia|14:00-20:00|doc402
+MED-403|Dr. Maria Herrera|56|Neurologia|08:00-14:00|doc403
+MED-404|Dr. Mateo Ramirez|50|Traumatologia|14:00-20:00|doc404
+MED-405|Dr. Diego Ortiz|47|Gastroenterologia|08:00-14:00|doc405
+MED-406|Dr. Maria Zambrano|35|Endocrinologia|08:00-14:00|doc406
+MED-407|Dr. Isabel Lopez|35|Pediatria|08:00-14:00|doc407
+MED-408|Dr. Fernando Herrera|37|Gastroenterologia|08:00-14:00|doc408
+MED-409|Dr. Carmen Torres|28|Cardiologia|08:00-14:00|doc409
+MED-410|Dr. Carlos Sanchez|53|Oftalmologia|14:00-20:00|doc410
+MED-411|Dr. Ana Perez|26|Pediatria|14:00-20:00|doc411
+MED-412|Dr. Valeria Lopez|56|Pediatria|14:00-20:00|doc412
+MED-413|Dr. Elena Jimenez|63|Cardiologia|14:00-20:00|doc413
+MED-414|Dr. Ricardo Zambrano|32|Otorrinolaringologia|14:00-20:00|doc414
+MED-415|Dr. Camila Castro|44|Cardiologia|08:00-14:00|doc415
+MED-416|Dr. Hugo Velez|29|Oftalmologia|14:00-20:00|doc416
+MED-417|Dr. Lucia Ortiz|49|Neurologia|14:00-20:00|doc417
+MED-418|Dr. Javier Mendoza|32|Traumatologia|08:00-14:00|doc418
+MED-419|Dr. Diego Torres|50|Otorrinolaringologia|14:00-20:00|doc419
+MED-420|Dr. Mateo Ortiz|58|Medicina General|08:00-14:00|doc420
+MED-421|Dr. Carlos Velez|47|Neurologia|14:00-20:00|doc421
+MED-422|Dr. Sofia Garcia|62|Medicina General|14:00-20:00|doc422
+MED-423|Dr. Valeria Velez|29|Cardiologia|08:00-14:00|doc423
+MED-424|Dr. Maria Morales|53|Otorrinolaringologia|08:00-14:00|doc424
+MED-425|Dr. Lucia Jimenez|53|Oftalmologia|08:00-14:00|doc425
+MED-426|Dr. Isabel Ramirez|45|Neumologia|14:00-20:00|doc426
+MED-427|Dr. Ricardo Ramirez|44|Dermatologia|14:00-20:00|doc427
+MED-428|Dr. Lucia Mendoza|27|Otorrinolaringologia|08:00-14:00|doc428
+MED-429|Dr. Luis Zambrano|25|Traumatologia|14:00-20:00|doc429
+MED-430|Dr. Sofia Rojas|29|Traumatologia|08:00-14:00|doc430
+MED-431|Dr. Fernando Martinez|33|Oftalmologia|08:00-14:00|doc431
+MED-432|Dr. Mateo Ortiz|48|Neurologia|14:00-20:00|doc432
+MED-433|Dr. Camila Lopez|32|Medicina General|14:00-20:00|doc433
+MED-434|Dr. Valeria Martinez|47|Endocrinologia|14:00-20:00|doc434
+MED-435|Dr. Hugo Sanchez|63|Dermatologia|08:00-14:00|doc435
+MED-436|Dr. Sofia Rojas|40|Cardiologia|14:00-20:00|doc436
+MED-437|Dr. Ana Jimenez|46|Gastroenterologia|14:00-20:00|doc437
+MED-438|Dr. Luis Mendoza|29|Cardiologia|14:00-20:00|doc438
+MED-439|Dr. Elena Rojas|46|Oftalmologia|14:00-20:00|doc439
+MED-440|Dr. Javier Velez|58|Neurologia|08:00-14:00|doc440
+MED-441|Dr. Jorge Lopez|37|Traumatologia|14:00-20:00|doc441
+MED-442|Dr. Carmen Martinez|53|Endocrinologia|14:00-20:00|doc442
+MED-443|Dr. Jorge Jimenez|51|Otorrinolaringologia|08:00-14:00|doc443
+MED-444|Dr. Isabel Morales|54|Nefrologia|14:00-20:00|doc444
+MED-445|Dr. Ricardo Sanchez|28|Oftalmologia|08:00-14:00|doc445
+MED-446|Dr. Mateo Ortiz|30|Cardiologia|14:00-20:00|doc446
+MED-447|Dr. Lucia Mendoza|46|Medicina General|14:00-20:00|doc447
+MED-448|Dr. Ricardo Herrera|55|Nefrologia|08:00-14:00|doc448
+MED-449|Dr. Diego Ortiz|63|Pediatria|14:00-20:00|doc449
+MED-450|Dr. Javier Morales|41|Neurologia|08:00-14:00|doc450
+MED-451|Dr. Luis Garcia|41|Endocrinologia|14:00-20:00|doc451
+MED-452|Dr. Lucia Lopez|27|Neurologia|14:00-20:00|doc452
+MED-453|Dr. Carlos Zambrano|32|Gastroenterologia|08:00-14:00|doc453
+MED-454|Dr. Jorge Zambrano|40|Otorrinolaringologia|14:00-20:00|doc454
+MED-455|Dr. Javier Morales|45|Endocrinologia|14:00-20:00|doc455
+MED-456|Dr. Diego Rojas|33|Nefrologia|08:00-14:00|doc456
+MED-457|Dr. Diego Herrera|54|Dermatologia|14:00-20:00|doc457
+MED-458|Dr. Javier Zambrano|38|Otorrinolaringologia|14:00-20:00|doc458
+MED-459|Dr. Valentina Torres|29|Endocrinologia|08:00-14:00|doc459
+MED-460|Dr. Diana Ortiz|60|Cardiologia|08:00-14:00|doc460
+MED-461|Dr. Valeria Morales|56|Otorrinolaringologia|14:00-20:00|doc461
+MED-462|Dr. Lucia Castro|40|Medicina General|14:00-20:00|doc462
+MED-463|Dr. Javier Torres|47|Neurologia|14:00-20:00|doc463
+MED-464|Dr. Diego Herrera|34|Endocrinologia|14:00-20:00|doc464
+MED-465|Dr. Elena Sanchez|43|Neumologia|14:00-20:00|doc465
+MED-466|Dr. Andres Velez|49|Neumologia|08:00-14:00|doc466
+MED-467|Dr. Mateo Castro|28|Gastroenterologia|08:00-14:00|doc467
+MED-468|Dr. Andres Ortiz|43|Dermatologia|14:00-20:00|doc468
+MED-469|Dr. Carmen Morales|53|Pediatria|08:00-14:00|doc469
+MED-470|Dr. Jorge Garcia|58|Cardiologia|14:00-20:00|doc470
+MED-471|Dr. Ana Morales|51|Nefrologia|14:00-20:00|doc471
+MED-472|Dr. Valentina Velez|45|Neumologia|08:00-14:00|doc472
+MED-473|Dr. Mateo Garcia|54|Oftalmologia|14:00-20:00|doc473
+MED-474|Dr. Diana Perez|44|Cardiologia|14:00-20:00|doc474
+MED-475|Dr. Luis Morales|61|Cardiologia|08:00-14:00|doc475
+MED-476|Dr. Mateo Torres|44|Oftalmologia|08:00-14:00|doc476
+MED-477|Dr. Carlos Velez|50|Traumatologia|08:00-14:00|doc477
+MED-478|Dr. Roberto Rojas|51|Endocrinologia|08:00-14:00|doc478
+MED-479|Dr. Camila Velez|41|Medicina General|08:00-14:00|doc479
+MED-480|Dr. Fernando Zambrano|25|Otorrinolaringologia|14:00-20:00|doc480
+MED-481|Dr. Isabel Sanchez|60|Dermatologia|14:00-20:00|doc481
+MED-482|Dr. Lucia Velez|61|Neurologia|14:00-20:00|doc482
+MED-483|Dr. Elena Perez|40|Endocrinologia|14:00-20:00|doc483
+MED-484|Dr. Luis Morales|52|Dermatologia|08:00-14:00|doc484
+MED-485|Dr. Elena Martinez|57|Gastroenterologia|08:00-14:00|doc485
+MED-486|Dr. Ricardo Mendoza|38|Cardiologia|14:00-20:00|doc486
+MED-487|Dr. Hugo Ortiz|49|Medicina General|14:00-20:00|doc487
+MED-488|Dr. Carmen Velez|56|Cardiologia|08:00-14:00|doc488
+MED-489|Dr. Carlos Ramirez|58|Traumatologia|14:00-20:00|doc489
+MED-490|Dr. Fernando Velez|34|Neurologia|14:00-20:00|doc490
+MED-491|Dr. Andres Jimenez|34|Cardiologia|14:00-20:00|doc491
+MED-492|Dr. Jorge Morales|26|Pediatria|14:00-20:00|doc492
+MED-493|Dr. Ana Lopez|52|Traumatologia|14:00-20:00|doc493
+MED-494|Dr. Andres Zambrano|34|Cardiologia|08:00-14:00|doc494
+MED-495|Dr. Fernando Velez|34|Gastroenterologia|14:00-20:00|doc495
+MED-496|Dr. Javier Sanchez|27|Cardiologia|14:00-20:00|doc496
+MED-497|Dr. Hugo Castro|48|Oftalmologia|08:00-14:00|doc497
+MED-498|Dr. Maria Velez|41|Cardiologia|14:00-20:00|doc498
+MED-499|Dr. Isabel Zambrano|62|Gastroenterologia|14:00-20:00|doc499
+MED-500|Dr. Valentina Herrera|57|Nefrologia|14:00-20:00|doc500
